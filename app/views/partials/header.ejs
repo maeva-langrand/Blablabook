@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    
+<% if (typeof css !== "undefined") { %>
+<link rel="stylesheet" href="/css/<%= css %>">
+<% } %>
+
+<% if (typeof needsPasswordValidation !== "undefined" && needsPasswordValidation) { %>
+    <link rel="stylesheet" href="/css/password-validation.css">
+<% } %>
+ 
+
+    <title>BlaBlaBook <%= pagetitle %>
+    </title>
+
+</head>
+
+<body>
+
+    <header class="header">
+  <nav class="main_navbar">
+
+    <a href="/" class="navbar_logo_link">
+      <img
+        src="/img/logo/logo-darkmode.png"
+        alt="BlaBlaBook – Accueil"
+        class="navbar_logo">
+    </a>
+
+    <!-- WRAPPER actions (mobile) -->
+    <div class="navbar_actions">
+
+      <button
+        class="header_accessibility_menu"
+        aria-label="Options d’accessibilité">
+        <img
+          src="/img/icons/ic--baseline-accessibility-new.svg"
+          class="header_accessibility_icon"
+          alt="">
+        Accessibilité
+      </button>
+
+      <button
+        class="navbar_burger"
+        aria-label="Menu"
+        aria-expanded="false">
+        <img
+          src="/img/icons/lucide--book-text.svg"
+          alt=""
+          class="navbar_burger_icon">
+        Menu
+      </button>
+
+    </div>
+
+    <!-- Menu -->
+    <ul class="navbar_list">
+
+      <li class="navbar_list_item">
+        <a href="/" class="navbar_list_link">Accueil</a>
+      </li>
+
+      <li class="navbar_list_item">
+        <a href="/livres" class="navbar_list_link">Livres</a>
+      </li>
+
+        <% if (user) { %> 
+      <li class="navbar_list_item">
+        <a href="/bibliotheque" class="navbar_list_link">Ma bibliothèque</a>
+      </li>
+
+      <li class="navbar_list_item">
+        <a href="/profil" class="navbar_list_link">Mon profil</a>
+      </li>
+       <% } else { %>   <% } %>
+<% if (user) { %> 
+  <li class="navbar_list_item">
+    <a href="/logout" class="navbar_list_link">Déconnexion</a>
+  </li>
+<% } else { %> 
+  <li class="navbar_list_item">
+    <a href="/login" class="navbar_list_link">Connexion</a>
+  </li>
+<% } %>
+
+    </ul>
+
+  </nav>
+
+  <!-- UTILITY BAR (desktop) -->
+  <div class="utility_bar">
+
+<form
+  action="/livres"
+  method="GET"
+  role="search"
+  class="header_search_bar"
+  aria-label="Recherche de livres">
+
+  <input
+    class="header_search_bar_input"
+    type="search"
+    name="q"
+    placeholder="Rechercher un livre, un auteur…"
+    required>
+
+  <button
+    type="submit"
+    class="header_search_bar_button"
+    aria-label="Lancer la recherche">
+    <img src="/img/icons/ic--sharp-search.svg" alt="">
+  </button>
+</form>
+
+
+   <div class="accessibility_wrapper">
+  <button
+    class="header_accessibility_menu"
+    aria-haspopup="true"
+    aria-expanded="false"
+    aria-controls="accessibility-menu">
+    <img
+      src="/img/icons/ic--baseline-accessibility-new.svg"
+      class="header_accessibility_icon"
+      alt="">
+    Accessibilité
+  </button>
+
+  <div
+    id="accessibility-menu"
+    class="accessibility_menu"
+    role="menu"
+    hidden>
+
+    <button
+  id="toggle-line-height"
+  role="menuitem"
+  aria-pressed="false">
+  📏 Interligne augmenté
+</button>
+
+    <button
+      id="toggle-theme"
+      role="menuitem"
+      aria-pressed="false">
+      🌙 Mode sombre
+    </button>
+
+    <button
+      id="toggle-contrast"
+      role="menuitem"
+      aria-pressed="false">
+      🔆 Contraste renforcé
+    </button>
+
+  </div>
+</div>
+</header>
+

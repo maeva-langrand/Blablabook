@@ -1,0 +1,39 @@
+@baseUrl = http://localhost:3000
+
+### Test GET login page
+GET {{baseUrl}}/login
+
+### Test POST register (succès)
+POST {{baseUrl}}/register
+Content-Type: application/x-www-form-urlencoded
+
+username=testuser1&email=tests@example.com&password=Password123&verify_password=Password123
+
+### Test POST register (erreur - mots de passe ne correspondent pas)
+POST {{baseUrl}}/register
+Content-Type: application/x-www-form-urlencoded
+
+username=testuser2&email=test2@example.com&password=Password123&verify_password=DifferentPassword
+
+### Test POST login (succès)
+POST {{baseUrl}}/login
+Content-Type: application/x-www-form-urlencoded
+
+username=testuser&password=Password123
+
+### Test POST login (erreur - utilisateur inexistant)
+POST {{baseUrl}}/login
+Content-Type: application/x-www-form-urlencoded
+
+username=nonexistent&password=Password123
+
+### Test POST login (erreur - mauvais mot de passe)
+POST {{baseUrl}}/login
+Content-Type: application/x-www-form-urlencoded
+
+username=testuser&password=WrongPassword
+
+### Test GET logout
+GET {{baseUrl}}/logout
+
+

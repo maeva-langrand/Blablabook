@@ -1,0 +1,2512 @@
+{
+  "authors": [
+    {
+      "first_name": "Isaac",
+      "last_name": "Asimov"
+    },
+    {
+      "first_name": "Georges",
+      "last_name": "Chaulet"
+    },
+    {
+      "first_name": "Václav",
+      "last_name": "Černý"
+    },
+    {
+      "first_name": "Katherine",
+      "last_name": "Applegate"
+    },
+    {
+      "first_name": "Marc",
+      "last_name": "Laberge"
+    },
+    {
+      "first_name": "Marie-Thérèse",
+      "last_name": "Caille"
+    },
+    {
+      "first_name": "Madeleine",
+      "last_name": "Gagnon"
+    },
+    {
+      "first_name": "Tancrede",
+      "last_name": "Vallerey"
+    },
+    {
+      "first_name": "Jean Louis M.",
+      "last_name": "Monod"
+    },
+    {
+      "first_name": "Aurélien",
+      "last_name": "Boivin"
+    },
+    {
+      "first_name": "Yannick",
+      "last_name": "Lacroix"
+    },
+    {
+      "first_name": "Benoît",
+      "last_name": "Broyart"
+    },
+    {
+      "first_name": "Marc",
+      "last_name": "Trudel"
+    },
+    {
+      "first_name": "Carey",
+      "last_name": "Scott"
+    },
+    {
+      "first_name": "Lili",
+      "last_name": "Chartrand"
+    },
+    {
+      "first_name": "Richard",
+      "last_name": "Petit"
+    },
+    {
+      "first_name": "Albin",
+      "last_name": "Michel"
+    },
+    {
+      "first_name": "Bruno",
+      "last_name": "Goffi"
+    },
+    {
+      "first_name": "Kate",
+      "last_name": "Crowley"
+    },
+    {
+      "first_name": "Henri",
+      "last_name": "Prémont"
+    },
+    {
+      "first_name": "Émile",
+      "last_name": "Gaboriau"
+    },
+    {
+      "first_name": "Christoph",
+      "last_name": "Niemann"
+    },
+    {
+      "first_name": "Imre",
+      "last_name": "Kertész"
+    },
+    {
+      "first_name": "Georges-André",
+      "last_name": "Parent"
+    },
+    {
+      "first_name": "Duke University. Commonwealth-Studies",
+      "last_name": "Center."
+    },
+    {
+      "first_name": "Francis",
+      "last_name": "Lacassin"
+    },
+    {
+      "first_name": "Mélanie",
+      "last_name": "Perreault"
+    },
+    {
+      "first_name": "Nathalie",
+      "last_name": "Parent"
+    },
+    {
+      "first_name": "Maurice",
+      "last_name": "Gabias"
+    },
+    {
+      "first_name": "Charlotte",
+      "last_name": "Grossetête"
+    },
+    {
+      "first_name": "松本清張",
+      "last_name": "松本清張"
+    },
+    {
+      "first_name": "Colleen M.",
+      "last_name": "Flood"
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Millau"
+    },
+    {
+      "first_name": "Ragnar",
+      "last_name": "Jónasson"
+    },
+    {
+      "first_name": "Harrison, Jim",
+      "last_name": "écrivain)"
+    },
+    {
+      "first_name": "Clyde W.",
+      "last_name": "Ford"
+    },
+    {
+      "first_name": "Inconnu",
+      "last_name": "Inconnu"
+    },
+    {
+      "first_name": "Bernadette Dejean de la",
+      "last_name": "Bâtie"
+    },
+    {
+      "first_name": "Marc",
+      "last_name": "Lits"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Grisham"
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Weir"
+    },
+    {
+      "first_name": "B.A.",
+      "last_name": "Paris"
+    },
+    {
+      "first_name": "Zoran",
+      "last_name": "Drvenkar"
+    },
+    {
+      "first_name": "Éric",
+      "last_name": "Giacometti"
+    },
+    {
+      "first_name": "桐野夏生",
+      "last_name": "桐野夏生"
+    },
+    {
+      "first_name": "Catherine",
+      "last_name": "MacPhail"
+    },
+    {
+      "first_name": "Karin",
+      "last_name": "Alvtegen"
+    },
+    {
+      "first_name": "Salvatore",
+      "last_name": "Walker"
+    },
+    {
+      "first_name": "Susanna",
+      "last_name": "Moore"
+    },
+    {
+      "first_name": "Ingrid",
+      "last_name": "Desjours"
+    },
+    {
+      "first_name": "Caryl",
+      "last_name": "Férey"
+    },
+    {
+      "first_name": "Anna",
+      "last_name": "Jansson"
+    },
+    {
+      "first_name": "Carlene",
+      "last_name": "Thompson"
+    },
+    {
+      "first_name": "William J.",
+      "last_name": "Coughlin"
+    },
+    {
+      "first_name": "Jean-François",
+      "last_name": "Delage"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Block"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Graham"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Scottoline"
+    },
+    {
+      "first_name": "Hériot, Franck",
+      "last_name": "journaliste"
+    },
+    {
+      "first_name": "Jeffry P.",
+      "last_name": "Lindsay"
+    },
+    {
+      "first_name": "Antoine",
+      "last_name": "Filissiadis"
+    },
+    {
+      "first_name": "Meyer,",
+      "last_name": "Eric"
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Unger"
+    },
+    {
+      "first_name": "Eric Van",
+      "last_name": "Lustbader"
+    },
+    {
+      "first_name": "Christophe",
+      "last_name": "Roussellier"
+    },
+    {
+      "first_name": "Donald E.",
+      "last_name": "Westlake"
+    },
+    {
+      "first_name": "J. K.",
+      "last_name": "Rowling"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Green"
+    },
+    {
+      "first_name": "Claudio",
+      "last_name": "Bolzman"
+    },
+    {
+      "first_name": "Jean",
+      "last_name": "Foucault"
+    },
+    {
+      "first_name": "Observatoire de la jeunesse et des politiques de jeunesse",
+      "last_name": "(France)"
+    },
+    {
+      "first_name": "Maureen",
+      "last_name": "Johnson"
+    },
+    {
+      "first_name": "Leonardo",
+      "last_name": "Patrignani"
+    },
+    {
+      "first_name": "Michel",
+      "last_name": "Lord"
+    },
+    {
+      "first_name": "Martin",
+      "last_name": "Gardner"
+    },
+    {
+      "first_name": "Susanne",
+      "last_name": "Julien"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Mallory"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Marrak"
+    },
+    {
+      "first_name": "Gwenaëlle",
+      "last_name": "Aznar"
+    },
+    {
+      "first_name": "L.J.",
+      "last_name": "Shen"
+    },
+    {
+      "first_name": "Nina",
+      "last_name": "Killham"
+    },
+    {
+      "first_name": "RJ",
+      "last_name": "Scott"
+    },
+    {
+      "first_name": "Ronald",
+      "last_name": "Wright"
+    },
+    {
+      "first_name": "Lewis",
+      "last_name": "Carroll"
+    },
+    {
+      "first_name": "Arthur Conan",
+      "last_name": "Doyle"
+    },
+    {
+      "first_name": "Samuel",
+      "last_name": "Johnson"
+    },
+    {
+      "first_name": "René",
+      "last_name": "Goscinny"
+    },
+    {
+      "first_name": "Erin",
+      "last_name": "Hunter"
+    },
+    {
+      "first_name": "Mac",
+      "last_name": "Barnett"
+    },
+    {
+      "first_name": "Dan",
+      "last_name": "Santat"
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Smith"
+    },
+    {
+      "first_name": "Philip",
+      "last_name": "Pullman"
+    },
+    {
+      "first_name": "Ann",
+      "last_name": "Rocard"
+    },
+    {
+      "first_name": "Anne-Marie",
+      "last_name": "Fournier"
+    },
+    {
+      "first_name": "Marie-Sophie",
+      "last_name": "Vermot"
+    },
+    {
+      "first_name": "Elisabetta",
+      "last_name": "Dami"
+    },
+    {
+      "first_name": "Bénédicte",
+      "last_name": "Froissart"
+    },
+    {
+      "first_name": "Dominique",
+      "last_name": "Fernandez"
+    },
+    {
+      "first_name": "Bernard",
+      "last_name": "Werber"
+    },
+    {
+      "first_name": "Danièle",
+      "last_name": "Desrosiers"
+    },
+    {
+      "first_name": "Michel",
+      "last_name": "Amelin"
+    },
+    {
+      "first_name": "Hélène",
+      "last_name": "Gagnier"
+    },
+    {
+      "first_name": "Eliacer",
+      "last_name": "Cansino"
+    },
+    {
+      "first_name": "Natacha",
+      "last_name": "Godeau"
+    },
+    {
+      "first_name": "Yves",
+      "last_name": "Hughes"
+    },
+    {
+      "first_name": "Philippa",
+      "last_name": "Gregory"
+    },
+    {
+      "first_name": "Alfred",
+      "last_name": "Jarry"
+    },
+    {
+      "first_name": "DRAME",
+      "last_name": "HAROUNA"
+    },
+    {
+      "first_name": "Patrick-Papa",
+      "last_name": "Dramé"
+    },
+    {
+      "first_name": "Man̳ Lafi",
+      "last_name": "Dramé"
+    },
+    {
+      "first_name": "Robert Lawrence",
+      "last_name": "Stine"
+    },
+    {
+      "first_name": "Gilles",
+      "last_name": "Tibo"
+    },
+    {
+      "first_name": "Mary",
+      "last_name": "Touquet"
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "Reynolds"
+    },
+    {
+      "first_name": "Denis",
+      "last_name": "Côté"
+    },
+    {
+      "first_name": "Sylviane",
+      "last_name": "Thibault"
+    },
+    {
+      "first_name": "François",
+      "last_name": "Gravel"
+    },
+    {
+      "first_name": "Molière",
+      "last_name": "Molière"
+    },
+    {
+      "first_name": "Lope de",
+      "last_name": "Vega"
+    },
+    {
+      "first_name": "Michelin",
+      "last_name": "Michelin"
+    },
+    {
+      "first_name": "Siddhartha",
+      "last_name": "Mukherjee"
+    },
+    {
+      "first_name": "Peter",
+      "last_name": "Manso"
+    },
+    {
+      "first_name": "Ronin",
+      "last_name": "Ro"
+    },
+    {
+      "first_name": "André",
+      "last_name": "Jardin"
+    },
+    {
+      "first_name": "Didier",
+      "last_name": "Desbrugères"
+    },
+    {
+      "first_name": "Pierre",
+      "last_name": "Assouline"
+    },
+    {
+      "first_name": "François",
+      "last_name": "Thomazeau"
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Perrault"
+    },
+    {
+      "first_name": "Oscar",
+      "last_name": "Wilde"
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Twain"
+    },
+    {
+      "first_name": "Ryūnosuke",
+      "last_name": "Akutagawa"
+    },
+    {
+      "first_name": "J.R.R.",
+      "last_name": "Tolkien"
+    },
+    {
+      "first_name": "Tomie",
+      "last_name": "dePaola"
+    },
+    {
+      "first_name": "Mo",
+      "last_name": "Willems"
+    },
+    {
+      "first_name": "Maurice",
+      "last_name": "Sendak"
+    },
+    {
+      "first_name": "Guy de",
+      "last_name": "Maupassant"
+    },
+    {
+      "first_name": "Nancy",
+      "last_name": "Morepa"
+    }
+  ],
+  "genres": [
+    {
+      "name": "Fantastique"
+    },
+    {
+      "name": "Magie"
+    },
+    {
+      "name": "Policier"
+    },
+    {
+      "name": "Thriller"
+    },
+    {
+      "name": "Jeune adulte"
+    },
+    {
+      "name": "Science-fiction"
+    },
+    {
+      "name": "Romance"
+    },
+    {
+      "name": "Aventure"
+    },
+    {
+      "name": "Mystère"
+    },
+    {
+      "name": "Drame"
+    },
+    {
+      "name": "Horreur"
+    },
+    {
+      "name": "Comédie"
+    },
+    {
+      "name": "Historique"
+    },
+    {
+      "name": "Biographie"
+    },
+    {
+      "name": "Conte"
+    },
+    {
+      "name": "Poésie"
+    }
+  ],
+  "books": [
+    {
+      "title": "Le voyage fantastique",
+      "publication_date": 1966,
+      "summary": "Qu'une équipe chirurgicale se précipite au secours d'un blessé, quoi de plus normal ?\r\n\r\nCe qui l'est moins, c'est que dans le cerveau de l'homme qu'on a voulu assassiner s'est formé un caillot qui ne peut être atteint de l'extéireur? Et le sort du monde dépend de cet homme...\r\n\r\nOr, en ce lointain futur, la science réalise d'extraordinaires \"réductions\", tant sur les êtres vivants que sur les choses: alors, à bord d'un sous-marin microscopique, s'embarquent des médecins de la taille d'une bactérie...\r\n\r\nEt pour eux commence un voyage fantastique, dans les tours et détours du système circulatoire du blessé. Ils ont soixante minutes pour réussir. Au delà, l'état de réduction prendra fin !",
+      "cover": "https://covers.openlibrary.org/b/id/14604837-L.jpg",
+      "authorNames": [
+        "Isaac Asimov"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "Fantastique Fantômette",
+      "publication_date": 2013,
+      "summary": "Le petit prince Népomucène a été enlevé ! Fantômette en est certaine : ce rapt porte la signature du Premier ministre de Synovie... La justicière décide de s'allier avec les Ecureuils, groupe d'opposants politiques, pour faire front au tyran. Mais elle n'a pas le temps de dire \"Mille pompons !\" qu'elle se retrouve déjà en bien mauvaise posture...",
+      "cover": "https://covers.openlibrary.org/b/id/11168480-L.jpg",
+      "authorNames": [
+        "Georges Chaulet"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "Histoires fantastiques",
+      "publication_date": 1981,
+      "summary": "Volume paru en 1976 chez le même éditeur dans la collection \"Légendes et contes de tous les pays\". Recueil de 16 histoires fantastiques glanées dans le folklore de différents pays.",
+      "cover": "https://covers.openlibrary.org/b/id/11407192-L.jpg",
+      "authorNames": [
+        "Václav Černý"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "L'épopée fantastique",
+      "publication_date": 2000,
+      "summary": "David et ses amis sont toujours pris dans Utopia, un monde parallèle magique et effrayant. Ils ont réussi à échapper à Nidhoggr le dragon. Ils ont maintenant la surprise de rencontrer les dieux de l'Olympe, mais apprennent que leur pire ennemi, Ka Anor, veut s'approprier le territoire. Un récit facile, qui s'étire; des images redondantes; des scènes marquées de violence ou de cruauté. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10559395-L.jpg",
+      "authorNames": [
+        "Katherine Applegate"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "L'envolée fantastique",
+      "publication_date": 2005,
+      "summary": "Adaptation pour jeunes lecteurs de \"La chasse-galerie\", un conte folklorique québécois. Partis chassés le lièvre et la perdrix dans la forêt, un père et son jeune fils portent secours à des canards dont les pattes étaient pris dans une mince couche de glace. Par la suite, leurs amis ailés les ramènent à la maison lors d'une envolée spectaculaire. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12966962-L.jpg",
+      "authorNames": [
+        "Marc Laberge"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "Les créatures fantastiques",
+      "publication_date": 1990,
+      "summary": "Un livre d'images à travers les arts : hommes-légumes d'Arcimboldo, bêtes composites, divinités grimaçantes, monstres effrayants, femmes ailées, sirènes, licornes ...",
+      "cover": "https://covers.openlibrary.org/b/id/12162452-L.jpg",
+      "authorNames": [
+        "Marie-Thérèse Caille"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "Les samedis fantastiques",
+      "publication_date": 1986,
+      "summary": "Dix rčits dont l'action se dřoule en milieu qub̌čois. Un dňominateur commun les unifie : l'amiti, ̌ l'entraide, le respect de l'autre. Style descriptif. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10780001-L.jpg",
+      "authorNames": [
+        "Madeleine Gagnon"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "L'Avion Fantastique",
+      "publication_date": 1936,
+      "summary": "A radio-controlled aeroplane! What fantasy for the 1930s. This is a novel of daring deeds that could have been written in English by W.E. Johns or John Buchan. Meant for younger readers, I suspect, but what thrills and excitement. A good read for those even with a limited command of the French language.",
+      "cover": "https://covers.openlibrary.org/b/id/7430144-L.jpg",
+      "authorNames": [
+        "Tancrede Vallerey"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "\"DU SURREEL AU FANTASTIQUE\"",
+      "publication_date": 1980,
+      "summary": "Hardcover - With a paper wrapper illustrated by Giordano Becciani",
+      "cover": "https://covers.openlibrary.org/b/id/6462089-L.jpg",
+      "authorNames": [
+        "Jean Louis M. Monod"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "Le Conte fantastique québécois au XIXe siècle",
+      "publication_date": 1987,
+      "summary": "L'auteur qui a, en 1975, proposé de classer les contes québécois en trois catégories (surnaturels, anecdotiques, historiques) a réalisé la présente anthologie consacrée au conte surnaturel au 19e siècle, lequel \"lorgne souvent du côté du fantastique\" (d'où le titre). Le texte des contes choisis est précédé d'une notice biographique reprise du \"Dictionnaire des oeuvres littéraires du Québec\". L. Fréchette a droit à six contes. Au total 25 contes, 14 notices. L'auteur annonce pour plus tard une édition critique des contes littéraires québécois du siècle dernier. Quelques notes infrapaginales.",
+      "cover": "https://covers.openlibrary.org/b/id/13054092-L.jpg",
+      "authorNames": [
+        "Aurélien Boivin"
+      ],
+      "genreNames": [
+        "Fantastique"
+      ]
+    },
+    {
+      "title": "La magie",
+      "publication_date": 1998,
+      "summary": "\"Une initiation aux multiples facettes de cet art, pour ceux qui souhaitent devenir des apprentis magiciens. Une description claire des tours de magie réalisables par les enfants.\" Réf. La Sélection de livres pour enfants et adolescents de Communication-Jeunesse 1999-2000",
+      "cover": "https://covers.openlibrary.org/b/id/11384547-L.jpg",
+      "authorNames": [
+        "Yannick Lacroix"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "Magie noire",
+      "publication_date": 2011,
+      "summary": "Comme Maldoror, son modèle sombre et sauvage, Adrien est amoureux de la nuit. Il est aussi amoureux de Marion, sa voisine d'en face, qui partage son goût pour \" la folie et les précipices \". Un soir de coupure d'électricité, postés chacun derrière une bougie, ils se donnent rendez-vous pour sombrer lentement dans le noir, les yeux dans les yeux, tandis que se consument les mèches...",
+      "cover": "https://covers.openlibrary.org/b/id/10978733-L.jpg",
+      "authorNames": [
+        "Benoît Broyart"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "La magie",
+      "publication_date": 2013,
+      "summary": "Chaque titre de cette collection de documentaires met en scène Albert, un garçon curieux qui explore une foule de sujets à saveur scientifique en compagnie de ses amies Nora, la poule et la grenouille. Sous ce titre, Albert s'intéresse à la magie. On propose ici une vingtaine de tours de magie répertoriés sous huit chapitres: Mystère et lecture de pensée - Avec la baguette du magicien - Tours impromptus - Un peu de bricolage - Il faut bien en rire un peu - Des cartes et encore des cartes - De grands projets de magiques - Avec de la pratique. Pour chaque tour de magie, un résumé, le matériel nécessaire, les étapes d'exécution avec des photographies à l'appui et quelques précisions. Des conseils de sécurité ainsi que des instructions pour fabriquer le matériel caractéristique du magicien (baguette, chapeau et table) précèdent le tout. À noter que le matériel nécessaire pour reproduire les tours de magie est facile à trouver à la maison. Des dessins au crayon de feutre, mettant en scène les quatre personnages, parsèment le tout. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10774543-L.jpg",
+      "authorNames": [
+        "Marc Trudel"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "La magie",
+      "publication_date": 2010,
+      "summary": "Chaque titre de cette collection propose l'exploration d'un univers ou d'une thématique par le biais d'une centaine de faits numérotés et développés en un court paragraphe. Celui-ci invite à plonger au coeur de la magie à la découverte de ses origines, de ses différents types, de la place qu'elle occupe au sein des croyances, des superstitions et du folklore de grandes civilisations du monde, de ses liens avec la sorcellerie ou l'alchimie, des lieux considérés comme magiques, des créatures fabuleuses, des plantes précieuses aux guérisseurs, de magiciens et d'illusionnistes célèbres, de symboles reconnus, etc.\n\nDes photographies, scènes tirées de films fétiches du jeune public (Harry Potter, À la croisée des mondes, Les chroniques de Narnia, Le Seigneur des anneaux) et des aquarelles réalistes accompagnent les informations qui, bien que concises, donnent une vue d'ensemble du sujet abordé. Des quiz et des faits étonnants, de même que quelques suggestions d'expériences à réaliser, sont intégrés à la mise en page dynamique et aérée. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12173837-L.jpg",
+      "authorNames": [
+        "Carey Scott"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "Magie bleue",
+      "publication_date": 2014,
+      "summary": "Depuis que mamie Lou a récupéré le coffre aux trésors de papi, ils se passe des choses étranges dans sa maison. Heureusement, sa petite-fille Adèle adore les mystères et elle n'hésitera pas à mener sa petite enquête pour résoudre une incroyable énigme.",
+      "cover": "https://covers.openlibrary.org/b/id/12192975-L.jpg",
+      "authorNames": [
+        "Lili Chartrand"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "Belle magie",
+      "publication_date": 2006,
+      "summary": "Chaque titre de cette collection propose, tête-bêche, deux versions d'une même histoire, racontées par 4-Trine et Zoé. Le récit est identique dans les deux parties, à l'exception des quelques rares situations que les deux amies vivent en solitaire.\n\nDes images de synthèse aux couleurs criardes s'insèrent dans des pages surchargées, rédigées en caractères gras, auxquelles s'ajoutent de surcroît de nombreux jeux typographiques donnant l'impression au lecteur de tenir entre ses mains un journal intime doublé d'un \"scrapbook\". Bref, des ouvrages sans prétention qui plairont néanmoins au public auquel ils s'adressent. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10413344-L.jpg",
+      "authorNames": [
+        "Richard Petit"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "Barbie et la magie de la mode",
+      "publication_date": 2012,
+      "summary": "Bienvenue à Paris! Barbie vient rendre visite à sa tante Millicent qui tient une maison de couture. Mais son séjour ne va pas être de tout repos ...",
+      "cover": "https://covers.openlibrary.org/b/id/12771068-L.jpg",
+      "authorNames": [
+        "Albin Michel"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "Magie du bois",
+      "publication_date": 2001,
+      "summary": "Retrace l'histoire du bois, expose ses utilisations diverses (construction, décoration, artisanat, remède naturel et produit de beauté) et donne un certain nombre d'exemples de réalisations (sculpture, ébénisterie, marqueterie ...) et de conseils d'experts (artistes et professionnels).",
+      "cover": "https://covers.openlibrary.org/b/id/10783972-L.jpg",
+      "authorNames": [
+        "Bruno Goffi"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "Magie du huart",
+      "publication_date": 1990,
+      "summary": "De très belles photographies et un texte facile d'accès présentent ces oiseaux. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12489639-L.jpg",
+      "authorNames": [
+        "Kate Crowley"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "Notions de magie",
+      "publication_date": 2004,
+      "summary": "Pour mieux comprendre les phénomènes paranormaux et les capacités insoupçonnées de l'être humain, propose des définitions du monde des pouvoirs secrets à travers des faits vécus, ainsi que des formules magiques qui ont fait leur preuve et que les jeunes pourront mettre en application dans leur vie quotidienne.",
+      "cover": "https://covers.openlibrary.org/b/id/11395756-L.jpg",
+      "authorNames": [
+        "Henri Prémont"
+      ],
+      "genreNames": [
+        "Magie"
+      ]
+    },
+    {
+      "title": "L'argent des autres",
+      "publication_date": 1874,
+      "summary": "Vincent Favoral, caissier au Crédit Mutuel, est accusé d'avoir détourné une somme colossale. Bien sûr, il nie, criant à une conspiration. Et il s'enfuit afin d'échapper à la police. Sa famille découvre bientôt l'étendue de la malversation. Des complots se créent, des meurtres sont commis et la famille de Vincent Favoral, au terme de son enquête, fera tout pour retrouver son honneur.",
+      "cover": "https://covers.openlibrary.org/b/id/10323852-L.jpg",
+      "authorNames": [
+        "Émile Gaboriau"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Le nuage policier",
+      "publication_date": 2013,
+      "summary": "Un nuage vivant dans une grande ville devient policier. Il entreprend de poursuivre les voleurs mais, échouant, il se retrouve rapidement agent de circulation. Provoquant de nouvelles catastrophes, il réalise qu'il n'est pas fait pour ce métier ...",
+      "cover": "https://covers.openlibrary.org/b/id/12311032-L.jpg",
+      "authorNames": [
+        "Christoph Niemann"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Roman policier",
+      "publication_date": 2006,
+      "summary": "Un renversement politique, quelque part en Amérique latine. La dictature qui s&#x2019;établit offre au simple policier Antonio Martens l&#x2019;occasion inespérée d&#x2019;intégrer l&#x2019;armée. Il y rencontre Diaz, son supérieur aussi charismatique que louche, et l&#x2019;acolyte de celui-ci, le sadique Rodriguez. Commencent alors des filatures au cours desquelles sont fichés un grand nombre de citoyens irréprochables.Peu après, Rodriguez installe dans leur bureau un instrument de torture et s&#x2019;apprête à en faire usage. Martens fait face à ses propres sentiments &#x2013; trop faibles pour une véritable remise en cause, trop forts pour l&#x2019;insouciance pure et simple. Jusqu&#x2019;où fermera-t-il les yeux ?Ce Roman policier à grande puissance évocatrice met en scène les ravages d&#x2019;une terreur emblématique. A travers l&#x2019;écriture, le bourreau Martens cherche la rédemption, à l&#x2019;instar des victimes dans d&#x2019;autres œuvres de Kertész. [Actes Sud]",
+      "cover": "https://covers.openlibrary.org/b/id/12679894-L.jpg",
+      "authorNames": [
+        "Imre Kertész"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Policiers",
+      "publication_date": 1993,
+      "summary": "Les statistiques, la situation au Québec concernant le meurtre de policiers; l'événement lui-même; l'homicidaire, sa situation sociale; les procédures judiciaires, etc.",
+      "cover": "https://covers.openlibrary.org/b/id/11696626-L.jpg",
+      "authorNames": [
+        "Georges-André Parent"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "The growth of Canadian policies in external affairs.",
+      "publication_date": 1960,
+      "summary": "Lectures with one exception, given as part of the 1959 program of the Center's Summer Seminar and Reasearch Group.",
+      "cover": "https://covers.openlibrary.org/b/id/10615538-L.jpg",
+      "authorNames": [
+        "Duke University. Commonwealth-Studies Center."
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Mythologie du roman policier",
+      "publication_date": 1987,
+      "summary": "Dix-huit monographies précieuses analysant l'oeuvre des auteurs qui se sont particulièrement illustrés dans ce genre périphérique à la littérature romanesque. Ce sont les héros, les personnages qui composent cette mythologie populaire, que le chercheur infatigable qu'est Lacassin a voulu surtout mythanalyser: Sherlock Holmes, Father Brown, Charlie Chan et autres. Chacun de ces portraits est accompagné d'une bibliographie exhaustive et, à l'occasion, d'une filmographie. Une bibliographie générale termine le second tome.",
+      "cover": "https://covers.openlibrary.org/b/id/10789935-L.jpg",
+      "authorNames": [
+        "Francis Lacassin"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Jazz et les policiers",
+      "publication_date": 2010,
+      "summary": "Une série de plaquettes didactiques visant à présenter divers métiers par le biais d'une mésaventure enfantine prenant place dans une famille de trois enfants. Des illustrations de type manga accompagnent la narration et trois métiers cités au cours de l'histoire sont décrits en conclusion dans la marge. Sous ce titre, Jazz, l'aînée, peu enthousiaste à l'idée de passer son congé au chalet avec ses parents, découvre que la vie réserve parfois des surprisesqui pimentent le quotidien d'un brin de suspense : arrêtés par la police pour excès de vitesse, la famille arrive à destination. Après avoir passé du bon temps en famille, à leur retour en ville, sa mère enceinte est bouleversée par le cambriolage qui a eu lieu durant leur absence et qui provoque son départ hâtif pour l'hôpital. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12729980-L.jpg",
+      "authorNames": [
+        "Mélanie Perreault"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Existence",
+      "publication_date": 2009,
+      "summary": "Roman policier teinté de fantastique qui tourne autour du meurtre d'une veille dame. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12827397-L.jpg",
+      "authorNames": [
+        "Nathalie Parent"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Droit pénal général et pouvoirs policiers",
+      "publication_date": 2005,
+      "summary": "Le droit criminel et pénal est en constante évolution et, de ce fait, le travail quotidien des policiers sur le terrain l'est tout autant. Les auteurs de cette sixième édition sont des témoins directs et privilégiés de cette évolution. Grâce à leur expérience, nous croyons que ce livre apportera une aide précieuse aux policiers et aux futurs policiers. L'ouvrage tient particulièrement compte des notions de base que tout policier doit posséder pour bien effectuer son travail et ainsi assurer la protection optimale de la collectivité. Le policier y apprendra quoi faire, comment le faire et quand le faire. Dans cette sixième édition, de nouveaux auteurs de grand talent se sont greffés à une équipe déjà renommée, et tous les chapitres ont ainsi été revus, améliorés et mis à jour. Ces changements ne visent qu'un seul et même but : augmenter et améliorer les connaissances des policiers afin qu'ils puissent faire face au crime avec efficacité et professionnalisme dans le plus profond respect des droits et libertés individuels garantis par la Charte canadienne des droits et libertés.",
+      "cover": "https://covers.openlibrary.org/b/id/12755500-L.jpg",
+      "authorNames": [
+        "Maurice Gabias"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Anniversaire, chien policier et spéléo",
+      "publication_date": 2014,
+      "summary": "Alix, Clémence, Juliette et Gwenaëlle sont en forêt de Fontainebleau quand une chasse au trésor organisée par les parents d'Alix tourne à l'enquête policière. Les filles découvrent une lettre écrite par un botaniste du XIXè siècle révélant l'existence d'une grotte souterraine extraordinaire. C'est accompagnées d'un policier d'une historienne que les quatre amies découvrent la caverne et ses secrets : décorée de peintures rupestres, elle consitue une découverte scientifique importante. Malheureusement, la grotte est également le repaire de cambrioleurs qui y amassent le fruit de leurs vols depuis des générations. enfermées dans la grotte, séparées des adultes, les filles accompagnées du jeune chiot de Juliette devront faire preuve de courage et de ruse pour s'en sortir.",
+      "cover": "https://covers.openlibrary.org/b/id/11005985-L.jpg",
+      "authorNames": [
+        "Charlotte Grossetête"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Tokyo express",
+      "publication_date": 1989,
+      "summary": "Les cadavres d'un obscur fonctionnaire et d'une serveuse de restaurant de Tokyo sont découverts sur une plage de l'île de Kyushu ; conclusion : double suicide amoureux par empoisonnement au cyanure. Mais deux détails attirent l'attention des enquêteurs. Le couple n'a pas voyagé ensemble. Lorsqu'il apprend que le mort travaillait dans un ministère où une affaire de corruption est sur le point d'éclater, l'inspecteur Mihara estime qu'il y a eu crime. Pour détruire l'alibi d'un suspect, il se met à étudier minutieusement les horaires de chemins de fer...",
+      "cover": "https://covers.openlibrary.org/b/id/10191930-L.jpg",
+      "authorNames": [
+        "松本清張"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Vulnerable",
+      "publication_date": 2020,
+      "summary": "\"At the time of writing, the novel coronavirus SARS-CoV-2, which causes the disease known as COVID-19,1 has infected people in 212 countries and on every continent except Antarctica. As of May 17, 2020, 5,780 people have died in Canada, and worldwide, there are over 313,000 reported deaths. The true death toll is certainly higher, and more will die in the coming months. Vast changes to our home lives, social interactions, government functioning and relations between countries have swept the world in a few months and are difficult to hold in one's mind at one time. That is why a collaborative effort such as this edited, multidisciplinary collection is needed. This book confronts the vulnerabilities and interconnectedness made visible by the pandemic and its consequences, along with the legal, ethical and policy responses. These include vulnerabilities for people who have been harmed or will be harmed by the virus directly and those harmed by measures taken to slow its relentless march; vulnerabilities exposed in our institutions, governance and legal structures; and vulnerabilities in other countries and at the global level where persistent injustices harm us all. We conclude with the hope that COVID-19 forces us to deeply reflect on how we govern and our policy priorities; to focus preparedness, precaution, and recovery to include all, not just some.\"--",
+      "cover": "https://covers.openlibrary.org/b/id/14688280-L.jpg",
+      "authorNames": [
+        "Colleen M. Flood"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Commissaire Corcoran",
+      "publication_date": 2005,
+      "summary": "Une enquête de l'ex-inspecteur de Scotland Yard, Thomas Corcoran, dans le sud-ouest de la France.",
+      "cover": "https://covers.openlibrary.org/b/id/12579098-L.jpg",
+      "authorNames": [
+        "Christian Millau"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Sótt",
+      "publication_date": 2012,
+      "summary": "Une épidémie s'abat sur Siglufjördur. La ville est mise en quarantaine. Les premières victimes succombent, les médias s'emparent du sujet : c'est la panique. L'inspecteur Ari Thór est pris par un terrible sentiment de claustrophobie. Lorsqu'un cold case vieux de cinquante ans refait surface, il saisit l'occasion pour échapper à cette atmosphère oppressante. Mais le huis clos se referme sur ce petit village du grand nord de l'Islande.",
+      "cover": "https://covers.openlibrary.org/b/id/15117103-L.jpg",
+      "authorNames": [
+        "Ragnar Jónasson"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Péchés capitaux",
+      "publication_date": 2015,
+      "summary": "Désormais retraité et célibataire, l'inspecteur Sunderson n'aspire qu'à profiter de la vie en s'installant dans un bungalow de pêche au Michigan. Il s'accommode tant bien que mal de ses nouveaux voisins, le clan Ames, pour qui viols, incestes et possession d'armes de guerre sont monnaie courante, et aide même l'un d'entre eux à écrire un polar. Mais un jour Lily Ames, sa femme de ménage, est tuée. (Electre)\n\nRomand policier\n\nRoman d'aventures\n\nRoman policier (noir)",
+      "cover": "https://covers.openlibrary.org/b/id/11045264-L.jpg",
+      "authorNames": [
+        "Harrison, Jim écrivain)"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "La longue marche",
+      "publication_date": 2009,
+      "summary": "Un policier accusé à tort, emprisonné puis divorcé, et dont le fils a disparu, se retrouve en difficulté avec ses anciens collègues et la mafia. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10774512-L.jpg",
+      "authorNames": [
+        "Clyde W. Ford"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Germany.",
+      "publication_date": 2007,
+      "summary": "This review discusses the challenges and opportunities of German rural areas. Significant differences between East and West persist and many of these have clear rural dimensions. Factors such as CAP reforms, ageing of the German population and migration trends will also have important rural implications. Many of these issues involve more than rural policy, but rural policy has a place in resolving all of the key issues. However, for rural policy to be an effective part of the policy process it will have to evolve beyond the existing limits in Germany. This review states that Germany's current approach to rural development and rural policy is mainly sectoral and thus does not fully capture the diversity of rural regions. Neither does it foster the development of programs that are adapted to each place. Based on the experience of other OECD countries, a number of priorities for reform can be identified. The implementation of these reforms will require as a pre-condition the acknowledgement that, although appropriate at a certain moment in time, the present approach to rural policy needs profound modifications. These modifications require building a broad consensus in order to overcome resistance that has long impeded change in rural policy in both Germany as well as in several other OECD countries. This consensus should be built progressively and through the diffusion of well-researched, objective information to both policy makers and broad sectors of civil society on the status and challenges of rural Germany.--Publisher's description.",
+      "cover": "https://covers.openlibrary.org/b/id/5378506-L.jpg",
+      "authorNames": [
+        "Inconnu"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Les romans policiers de Driss Chraïbi",
+      "publication_date": 2002,
+      "summary": "Cet ouvrage propose une analyse-enquête sur les représentations du féminin et du masculin dans les romans policiers de Driss Chraïbi. Cette incursion du grand romancier marocain et défenseur des femmes dans un genre populaire riche en clichés machistes n'est sans doute pas innocente. Elle permet d'examiner les mythes et les idéaux arabo-musulmans traditionnels dans les nombreux stéréotypes de comportements féminins et masculins esquissés par Chraïbi.",
+      "cover": "https://covers.openlibrary.org/b/id/4301185-L.jpg",
+      "authorNames": [
+        "Bernadette Dejean de la Bâtie"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Le genre policier dans tous ses états",
+      "publication_date": 2011,
+      "summary": "\"Cet ouvrage reprend une série d'articles publiés depuis une vingtaine d'années par Marc Lits autour du genre policier. Tous ces articles ont été remaniés et actualisés, pour proposer un état des lieux clair et cohérent des transformations du policier depuis 150 ans, et montrer ses innombrables transformations à travers les formes et les supports de la culture médiatique contemporaine. Il replace l'histoire du genre policier dans ses différents avatars en repartant d'une définition du roman d'énigme, pour montrer les raisons qui ont amené le modèle canonique à se transformer en différents sous-genres. Il n'y a pas de roman policier, il y a plutôt une variété de catégories, de l'énigme classique jusqu'au polar ou au roman noir. Il est donc utile de clarifier les définitions et les limites d'un objet oedipien à plus d'un titre. En outre, le genre policier est sans cesse confronté à la tentation du littéraire et à la confrontation avec le réel. \n\nEntre ces deux tensions, il a souvent du mal à trouver sa place, d'autant plus qu'il doit aussi, désormais, se situer par rapport aux fictions policières cinématographiques et télévisuelles. Ce n'est pas seulement la forme qui évolue, ce sont aussi les supports qui la véhiculent. C'est ainsi que la comparaison du récit policier avec la nouvelle ou avec le fait divers permet aussi de définir les limites du genre. Le cadre .ainsi délimité, il n'est pas inutile de revenir à quelques figures fondatrices : des auteurs marquants comme Simenon, Véry, Steeman ou Malet, des héros emblématiques comme Arsène Lupin ou Nestor Burma. Mais au-delà de l'analyse textuelle, ce volume propose une analyse des fictions criminelles audiovisuelles. \n\nLa question n'est pas neuve, puisque Simenon a longtemps voulu s'occuper des adaptations de ses films, mais aujourd'hui la matrice policière inspire sans discontinuer l'audiovisuel, au cinéma, en télévision, dans les fictions, mais aussi dans les reality shows. La structure policière est tellement porteuse de rebondissements, de suspense, qu'elle irradie tous les genres audiovisuels, y compris dans les magazines d'information. Cela prouve que le genre policier se réinvente tous les jours, et que sa formule ne cesse d'irriguer les productions médiatiques les plus diverses.\"--Page 4 of cover.",
+      "cover": "https://covers.openlibrary.org/b/id/14616783-L.jpg",
+      "authorNames": [
+        "Marc Lits"
+      ],
+      "genreNames": [
+        "Policier"
+      ]
+    },
+    {
+      "title": "Le client",
+      "publication_date": 1993,
+      "summary": "Le client, c'est Mark Sway, un jeune garçon de onze ans, audacieux, plein de ressources, un peu voyou, qui a bien besoin d'être protégé. Depuis qu'il a malencontreusement recueilli les confidences d'un avocat qui, avant de se suicider, lui a dit où se trouvait le corps du sénateur assassiné par la Mafia, la police et le FBI s'acharnent sur lui pour le faire parler. Mais Mark refuse de dire quoi que ce soit. Il a vu le film Le parrain. Il sait que \"la Mafia n'oublie jamais\" et qu'elle l'exécutera si elle le soupçonne d'être un peu trop bavard. Alors, pour se défendre, il engage une avocate au caractère fort et au cœur d'or qui, pour un dollar - toute sa fortune! -, accepte de le représenter et de le suivre dans cette affaire terrifiante.\r\n--back cover",
+      "cover": "https://covers.openlibrary.org/b/id/10578659-L.jpg",
+      "authorNames": [
+        "John Grisham"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Seul sur Mars",
+      "publication_date": 2011,
+      "summary": "Mark Watney a été l un des premiers humains à poser le pied sur Mars. À présent, il est persuadé d être le premier à y mourir. Lorsqu'une tempête de sable mortelle force ses coéquipiers à évacuer la planète, Mark se retrouve seul et sans ressources. Pourtant Mark n est pas prêt à baisser les bras. Ingénieux, habile de ses mains et surtout très têtu, il affronte les problèmes en apparence insurmontables un par un. Isolé et aux abois, parviendra-t-il à survivre en faisant mentir les statistiques ?",
+      "cover": "https://covers.openlibrary.org/b/id/8137209-L.jpg",
+      "authorNames": [
+        "Andy Weir"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Dix petites poupées",
+      "publication_date": 2018,
+      "summary": "Layla a disparu il y a douze ans, en pleine nuit, sur une aire d'autoroute française. Elle rentrait en Angleterre avec son petit ami, Finn, après leurs vacances. On ne l'a jamais revue depuis.\r\nFinn a raconté la vérité sur ce qui s'est passé cette nuit-là. Mais pas toute la vérité. Ni aux policiers qui l'ont interrogé lors de l'enquête, ni même à Ellen, la sœur de Layla, avec laquelle il a refait sa vie et qu'il s'apprête à épouser.\r\nQuand un de leurs voisins croit apercevoir Layla près du cottage où vivent Finn et Ellen, le passé ressurgit. Finn reçoit d'étranges et inquiétants e-mails. Layla serait-elle encore en vie ? Et de petites poupées russes, souvenirs de l'enfance des deux sœurs, font soudain leur apparition…",
+      "cover": "https://covers.openlibrary.org/b/id/15125476-L.jpg",
+      "authorNames": [
+        "B.A. Paris"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Sorry",
+      "publication_date": 2009,
+      "summary": "Berlin. Tamara, Frauke, Kris et Wolf se sont connus au lycée. Dix ans plus tard, ils ont l'idée de monter une agence, nommée Sorry, chargée de s'excuser à la place des autres. Le succès est immédiat, ils aident des hommes d'affaires et des entreprises qui estiment s'être mal comportés envers un salarié ou un associé à alléger leurs remords. Jusqu'au jour où un mystérieux assassin désireux de soulager sa conscience recourt aux services du quatuor.",
+      "cover": "https://covers.openlibrary.org/b/id/12980029-L.jpg",
+      "authorNames": [
+        "Zoran Drvenkar"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Apocalypse",
+      "publication_date": 2009,
+      "summary": "Et si les francs-maçons détenaient le secret de la fin des Temps? Depuis 2000 ans, le monde toujours prompt à s'embraser n'a jamais été aussi près de sa fin: le Signe tant attendu est arrivé sous la forme d'une dangereuse image réapparue. C'est le commissaire Antoine Marcas qui a retrouvé cette ébauche de tableau des bergers d'Arcadie: un dessin maudit, dont le décryptage par un inité pourrait conduire à la fin des Temps.",
+      "cover": "https://covers.openlibrary.org/b/id/11414631-L.jpg",
+      "authorNames": [
+        "Éric Giacometti"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Out",
+      "publication_date": 2006,
+      "summary": "Roman policier (énigme). Roman psychologique.",
+      "cover": "https://covers.openlibrary.org/b/id/10581408-L.jpg",
+      "authorNames": [
+        "桐野夏生"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Némésis",
+      "publication_date": 2009,
+      "summary": "Littérature jeunesse: roman policier.\n\nRam ne se souvient de rien. Qui est-il ? Comment est-il arrivé dans cette cage d'escalier où il a passé la nuit ? Un bruit suspect l'attire vers l'ascenseur : à l'intérieur, un homme gît, mortellement blessé. Avant de rendre un dernier souffle, il appelle le garçon auprès de lui pour lui murmurer des mots incompréhensibles. Suspect numéro un, Ram doit fuir. Mais la police n'est pas la seule à ses trousses. Quelqu'un en veut à sa vie.\n\nToujours poursuivi par l'homme en noir, Ram erre dans la lande. Par chance il est recueilli par William et Mary, un jeune couple charmant. Mais lorsque ceux-ci lui affirment qu'il est leur neveu et l'emmènent de force à l'école du village, Ram commence à s'inquiéter. Peu à peu, d'étranges souvenirs d'explosions et de violence lui reviennent, et il acquiert la certitude qu'il a un rôle crucial à jouer... Au village la population est en état de choc : plusieurs corps ont été retrouvés dans la lande, déchiquetés par une bête sauvage. Mais ce n'est pas le seul danger que doit affronter Ram, car l'homme en noir retrouve bientôt sa trace...\n\nAprès avoir échappé à l'Homme en Noir, Ram se blesse et trouve refuge chez Bella, une vieille excentrique, qui le prend sous son aile le temps de sa convalescence. Il découvre alors une vallée pleine de mystère : des gens disparaissent dans les Chutes du Désespoir, d'étranges lueurs vertes balaient le ciel au coeur de la nuit. Sans parler du Fauve, l'homme des bois qui rôde en ville et terrifie les enfants...Avant de repartir, Ram décide de faire la lumière sur toute cette histoire. Mais le Jour où l'Homme en Noir le retrouve, Il s'interroge : Bella l'a-t-elle trahi ? Et si l'Homme en Noir n'était pas son seul ennemi ?\n\nDepuis qu'il s'est réveillé dans cette cage d'escalier, Ram n'a cessé de fuir l'Homme en Noir. Traqué, il lit dans le journal un étrange article : un reporter recherche des témoins de l'attentat, persuadé qu'il s'agit d'un complot. Ram croit avoir enfin trouvé en Shanti une alliée de confiance. II sait aussi qu'il ne doit en aucun cas baisser sa garde. Peu à peu, de terribles souvenirs lui reviennent en mémoire et remettent tout en question. Déboussolé, Ram n'a qu'une certitude : s'il ne fait rien, une bombe explosera. Mais qui serait prêt à croire un garçon qui ne sait même pas qui il est ?",
+      "cover": "https://covers.openlibrary.org/b/id/12943850-L.jpg",
+      "authorNames": [
+        "Catherine MacPhail"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Trahie",
+      "publication_date": 2005,
+      "summary": "Voyage au coeur de l'obsession. Une femme qui découvre que son mari entretient une liaison avec une autre femme entreprend de se venger. Mais ses plans seront bouleversés par une rencontre d'un soir avec un jeune homme au comportement étrange. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10815054-L.jpg",
+      "authorNames": [
+        "Karin Alvtegen"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Vanity art",
+      "publication_date": 2000,
+      "summary": "Controversial work of fiction by an internationally known Italian art dealer, writing under the pseudonym Salvatore Walker. Describes in detail how art forgeries are produced.",
+      "cover": "https://covers.openlibrary.org/b/id/11030316-L.jpg",
+      "authorNames": [
+        "Salvatore Walker"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "A vif",
+      "publication_date": 2003,
+      "summary": "Erotisme trouble, violence froide, écriture au scalpel. Premier thriller de Susanna Moore.",
+      "cover": "https://covers.openlibrary.org/b/id/12289317-L.jpg",
+      "authorNames": [
+        "Susanna Moore"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Les fauves",
+      "publication_date": 2015,
+      "summary": "Roman policier\n\nBelle et ambitieuse, Haiko est à la tête d'une ONG qui lutte contre le recrutement de jeunes par l'Etat islamique. Elle est la cible d'une fatwa. Quand la jeune femme se sent suivie et que ses proches sont menacés, elle fait appel à Lars, vétéran de l'Afghanistan qui a survécu à l'enfer après avoir été capturé par les talibans, pour la protéger. (www.laprocure.com)",
+      "cover": "https://covers.openlibrary.org/b/id/12632608-L.jpg",
+      "authorNames": [
+        "Ingrid Desjours"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Utu",
+      "publication_date": 2008,
+      "summary": "Paul Osborne se rend à Auckland. Son ami le chef de la police, Fitzgerald, aurait abattu un chaman maori, dont le cadavre n'a pas été retrouvé, avant de se suicider. Il est chargé de remonter la piste. Cela va être pour lui l'occasion de retrouver Hana, sa belle Maorie et son amour de jeunesse mais aussi de rouvrir d'anciennes blessures. Prix Sang d'encre, Michel Lebrun et SNCF du polar 2005.",
+      "cover": "https://covers.openlibrary.org/b/id/10819531-L.jpg",
+      "authorNames": [
+        "Caryl Férey"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Le pacte boréal",
+      "publication_date": 2010,
+      "summary": "Roman policier.\n\nAlors que Maria Wern n'est pas encore commissaire, elle se retrouve confrontée à un meurtre très étrange. Un homme est retrouvé pendu dans la forêt aux côtés d'un coq, d'un chien et d'un chat. Cette scène fait immédiatement écho pour les enquêteurs aux exécutions rituelles souvent décrites dans les textes de la mythologie nordique.",
+      "cover": "https://covers.openlibrary.org/b/id/11445221-L.jpg",
+      "authorNames": [
+        "Anna Jansson"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Les secrets sont éternels",
+      "publication_date": 2005,
+      "summary": "Il suffira d'un cadvre et le rêve tournera au cauchemar. Le paradis à l'enfer. Et commencera la plus implacable et la plus inexplicable des traques... Pourtant Adrienne et sa fille avait trouvé dans cette petite ville un havre et un refuge. Elles pouvaient même croire en avoir fini avec les difficultés et les peines de la vie. Mais la découverte du corps dénudé, inanimé, brutalisé de leur meilleur amie est venue tout boulverser.",
+      "cover": "https://covers.openlibrary.org/b/id/12167758-L.jpg",
+      "authorNames": [
+        "Carlene Thompson"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Vices de forme",
+      "publication_date": 1995,
+      "summary": "Analyse : Roman policier (suspense). Roman de société.",
+      "cover": "https://covers.openlibrary.org/b/id/10820013-L.jpg",
+      "authorNames": [
+        "William J. Coughlin"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Peur de l'Ombre",
+      "publication_date": 2014,
+      "summary": "Roman policier\n\nParis, été 2017, un attentat visant le président de la République française fait de nombreuses victimes à Paris dont le fils de Nora Morientès et Michaël Botton, tous deux en charge de l'anti-terrorisme à la DCRI. Dans le même temps, Michaël Botton est enlevé sous les yeux de Nora par un groupuscule intégriste. Après des années de recherches, Botton reste introuvable, tout comme le commanditaire qui a fomenté et revendiqué cet attentat... jusqu'au jour où la DCRI découvre qu'une nouvelle conspiration se prépare. Toutes les polices sont en alerte maximum et une course contre la montre est lancée afin de découvrir qui se cache derrière l'Ombre persique qui plane sur l'Occident.",
+      "cover": "https://covers.openlibrary.org/b/id/10795889-L.jpg",
+      "authorNames": [
+        "Jean-François Delage"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Le manuscrit de Massada",
+      "publication_date": 2007,
+      "summary": "Thriller historique reposant en partie sur les manuscrits de la mer Morte, ceux de Massada en particulier. Cette fiction reprend des bribes de textes non officiellement publiés et prend appui sur l'aura de mystère que suscitent ces manuscrits pour développer son intrigue.",
+      "cover": "https://covers.openlibrary.org/b/id/11410145-L.jpg",
+      "authorNames": [
+        "Paul Block"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "L'évangile selon Satan",
+      "publication_date": 2007,
+      "summary": "Un thriller ésotérique et fantastique qui met en scène l'enquête de Marie Parks, une profileuse du FBI, dans le Maine, et celle du père jésuite Carzo, un exorciste envoyé par le cardinal Camano. Car il y a un lien entre la crucifixion de cinq jeunes femmes par un moine portant les signes du Diable et le manuscrit d'un Evangile apocryphe caché en 1349 au couvent des Augustines de Bolzano.",
+      "cover": "https://covers.openlibrary.org/b/id/11004473-L.jpg",
+      "authorNames": [
+        "Patrick Graham"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Jamais sans toi",
+      "publication_date": 2012,
+      "summary": "Un jour où Rose McKenna, journaliste à Philadelphie, apporte de l'aide à l'école de sa fille Melly, une explosion dévaste l'établissement. Sous les décombres, elle doit choisir entre secourir sa fille et une de ses camarades de classe. Traumatisée par ce dilemme, Rose apprend que l'explosion a une origine criminelle.--[Memento].",
+      "cover": "https://covers.openlibrary.org/b/id/12686822-L.jpg",
+      "authorNames": [
+        "Lisa Scottoline"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "La vengeance du djinn",
+      "publication_date": 2010,
+      "summary": "2e rom.- Paris... Rome... des cadavres carbonisés...",
+      "cover": "https://covers.openlibrary.org/b/id/12930472-L.jpg",
+      "authorNames": [
+        "Hériot, Franck journaliste"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Ce cher Dexter",
+      "publication_date": 2005,
+      "summary": "Expert légiste au service médico-légal de la police de Miami, Dexter Morgan détient un lourd secret : il est tueur de criminels. Avec l'arrivée d'un tueur en série habile et sadique qui laisse des indices révélateurs de ses méfaits, Dexter comprend qu'il a trouvé son alter ego.",
+      "cover": "https://covers.openlibrary.org/b/id/12322165-L.jpg",
+      "authorNames": [
+        "Jeffry P. Lindsay"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "D'où viens-tu?",
+      "publication_date": 2009,
+      "summary": "Une femme enlevée et disparue qui, quelques années plus tard, semble envoyer des messages à son mari. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10749860-L.jpg",
+      "authorNames": [
+        "Antoine Filissiadis"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Les Fils du dragon vert",
+      "publication_date": 2004,
+      "summary": "Analyse : Roman de société. Roman d'espionnage.",
+      "cover": "https://covers.openlibrary.org/b/id/10636820-L.jpg",
+      "authorNames": [
+        "Meyer, Eric"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Les voix du crépuscule",
+      "publication_date": 2012,
+      "summary": "Les Hollows. Une petite ville au nord de l'état de New-York, où les maisons sont grandes et silencieuses, construites en bordure des bois qui ont jadis fait la réputation de la région. Jones Cooper y était policier. Jusqu'à ce qu'une tragique affaire le force à quitter ce métier qu'il aimait tant et le plonge, à l'orée de ses cinquante ans, dans une lente dépression. Bethany Graves, elle, a quitté Manhattan après un douloureux divorce pour tenter de s'y reconstruire une vie avec sa fille Willow.\n\nQuant à Michael Holt, il est de retour dans la ville de son enfance, celle qui qui a vu sa mère le quitter un soir, lui et toute sa famille, pour ne plus jamais réapparaître. Mais un jour, le temps s'accélère. Willow a vu un homme creuser dans les bois et au même moment, une inconnue demande de l'aide à Jones, de toute urgence. La ville bruit soudain d'étranges rumeurs tandis que les vies de ces hommes et de ces femmes commencent à révéler de bien sombres mensonges ... ±Les voix du crépusculeı est un roman haletant et subtil, l'un de ces livres auxquels on repense souvent, longtemps après l'avoir lu. -- [l'Éditeur].",
+      "cover": "https://covers.openlibrary.org/b/id/11402114-L.jpg",
+      "authorNames": [
+        "Lisa Unger"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Le danger dans la peau",
+      "publication_date": 2010,
+      "summary": "Roman policier (suspense)",
+      "cover": "https://covers.openlibrary.org/b/id/12938387-L.jpg",
+      "authorNames": [
+        "Eric Van Lustbader"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Le mensonge dans la peau",
+      "publication_date": 2011,
+      "summary": "Roman policier (suspense)",
+      "cover": "https://covers.openlibrary.org/b/id/10410607-L.jpg",
+      "authorNames": [
+        "Eric Van Lustbader"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Graham Masterton, le faiseur d'Histoire",
+      "publication_date": 2017,
+      "summary": "\"Si Graham Masterton est depuis quarante ans (Manitou, 1975) plébiscité par les lecteurs comme une référence incontournable du thriller surnaturel ou de terreur, c'est en particulier parce qu'il sait mieux que quiconque brouiller leurs repères, creuser une brèche dans le mur de leurs certitudes rationnelles, afin de les attirer dans un univers où règne la loi démoniaque (ou la loi du complot secret, s'agissant des thrillers politiques non surnaturels). Renvoyer au lecteur, à travers le miroir déformant du monde de la magie, une Histoire réelle consciencieusement apprise autrefois à l'école (Hastings, Little Big Horn, Hiroshima...) mais qu'il lui faudra désormais revoir de manière déchirante, est une martingale que Graham Masterton utilise régulièrement pour le déboussoler afin de mieux l'exposer à la peur. Associant Graham Masterton aux fantômes de deux célèbres écrivains, Lewis Carroll et Alexandre Dumas (père), on pourra ici affirmer que s'il agit en \"faiseur d'Histoire\", c'est bien en passant cette Histoire à travers le miroir, afin de lui faire des enfants... terrifiants !\"--Page 4 of cover.",
+      "cover": "https://covers.openlibrary.org/b/id/13123313-L.jpg",
+      "authorNames": [
+        "Christophe Roussellier"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Les sentiers du désastre",
+      "publication_date": 2004,
+      "summary": "Monroe Hall, riche héritier, a fait le vide autour de lui en se montrant impitoyable en affaires. Il est ravi quand l'agence d'intérim lui envoie quatre employés de maison, Dortmunder et ses co-équipiers, bien décidés à piller la collection de voitures anciennes de leur employeur. Quand celui-ci disparaît, la police soupçonne le majordome ...",
+      "cover": "https://covers.openlibrary.org/b/id/12152613-L.jpg",
+      "authorNames": [
+        "Donald E. Westlake"
+      ],
+      "genreNames": [
+        "Thriller"
+      ]
+    },
+    {
+      "title": "Harry Potter et le prince de sang-mêlé",
+      "publication_date": 2005,
+      "summary": "Harry, Ron et Hermione entrent en sixième année à Poudlard où ils vont vivre leur dernière année avant la majorité qui est fixée, chez les sorciers, à l’âge de dix-sept ans. Des événements particulièrement marquants vont contribuer à faire passer Harry du statut d’adolescent à celui d’homme. Ce tome, sur fond de guerre contre un Voldemort plus puissant que jamais, se révèle plus sombre que les précédents. Secrets, alliances et trahisons conduisent aux événements les plus dramatiques qu’Harry ait eu à affronter.\r\n\r\nSource: http://www.gallimard.fr/Catalogue/GALLIMARD-JEUNESSE/Folio-Junior/Folio-Junior/Harry-Potter-et-le-Prince-de-Sang-Mele",
+      "cover": "https://covers.openlibrary.org/b/id/13339235-L.jpg",
+      "authorNames": [
+        "J. K. Rowling"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Harry Potter à l'école des sorciers",
+      "publication_date": 1900,
+      "summary": "Le jour de ses onze ans, la vie de Harry Potter est bouleversée à jamais quand Rubeus Hagrid, un géant aux yeux brillants comme des scarabées, lui apporte une lettre ainsi que d'incroyables nouvelles. Harry Potter n'est pas un garçon comme les autres: c'est un sorcier. Et une aventure extraordinaire est sur le point de commencer.\r\nSource: http://www.gallimard.fr/Catalogue/GALLIMARD-JEUNESSE/Albums-Junior/Harry-Potter-a-l-ecole-des-sorciers",
+      "cover": "https://covers.openlibrary.org/b/id/7882746-L.jpg",
+      "authorNames": [
+        "J. K. Rowling"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Tortues à l'infini",
+      "publication_date": 2017,
+      "summary": "Aza Holmes, 16 ans, a tout pour être aimée et avoir un bel avenir, mais elle a grandi avec une pathologie psychique. Qui est-elle, où est-elle, lorsque la spirale vertigineuse de ses pensées obsessionnelles s'empare d'elle ? Vous aimerez Aza, qui raconte sa propre histoire, vous aimerez sa meilleure amie Daisy la tornade, et vous aimerez Davis, fils d'un milliardaire mystérieusement disparu.\r\nUn trio improbable qui va mener l'enquête, et trouver en chemin d'autres mystères et d'autres vérités…",
+      "cover": "https://covers.openlibrary.org/b/id/14576606-L.jpg",
+      "authorNames": [
+        "John Green"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Secondas - Secondos",
+      "publication_date": 2003,
+      "summary": "Les enfants des \"travailleurs étrangers\" des années 50 et 60 sont désormais adultes. Que sont-ils devenus ? D'aucuns pensaient qu'ils ne seraient pas \"à leur place\" en Suisse, du fait de leur différence culturelle ou de leurs origines modestes. La présente étude tente de comprendre comment ils ont pris pied dans la vie sociale suisse, en décrivant leurs trajectoires de mobilité sociale et les formes d'identité culturelle qu'ils élaborent. En comparant leurs parcours à ceux de leurs parents, l'étude témoigne de l'importance de la mobilité sociale de cette population qui accède à des positions qualifiées sur le marché du travail. S'ils sont relativement nombreux à se naturaliser, ces jeunes adultes s'inspirent néanmoins largement de leurs doubles références pour se construire une identité sociale qui combine intégration et différence dans des synthèses identitaires nouvelles. [Editeur]",
+      "cover": "https://covers.openlibrary.org/b/id/12149716-L.jpg",
+      "authorNames": [
+        "Claudio Bolzman"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Imaginaire du jeune méditerranéen",
+      "publication_date": 2002,
+      "summary": "Une exploration de la littérature d’enfance et de jeunesse contemporaine méditerranéenne : La littérature de jeunesse maghrébine ou immigrée : quelques paramètres d’une émergence (Charles Bonn) ; La Bande dessinée du Maghreb : l’Arlésienne de l’autre côté de la Méditerranée (Jacques Tramson); L’imaginaire de jeunes marocains à travers l’analyse de nouvelles (Jean Foucault) ; Littérature de jeunesse et sensibilité italienne (Carla Poesío) ; La construction de l’Espagne plurielle dans l’édition pour la jeunesse (Marta María García Suárez) ; La Grèce antique dans les livres grecs pour enfants : trois livres, trois points de vue différents (Alexandre Zervou), La littérature de jeunesse au Portugal (Maria Da Nitividade Pires)",
+      "cover": "https://covers.openlibrary.org/b/id/4316288-L.jpg",
+      "authorNames": [
+        "Jean Foucault"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Inégalités entre jeunes sur fond de crise",
+      "publication_date": 2012,
+      "summary": "Ce rapport livre un diagnostic sur la situation contrastée des jeunes en temps de crise. Les moins diplômés sont les plus fragilisés et leur mise à l'écart du marché du travail les expose au risque d'exclusion. Les jeunes diplômés, quant à eux, connaissent une dégradation relative de la qualité de l'emploi. Une analyse approfondie des inégalités intragénérationnelles est également proposée.--[Memento].",
+      "cover": "https://covers.openlibrary.org/b/id/12324065-L.jpg",
+      "authorNames": [
+        "Observatoire de la jeunesse et des politiques de jeunesse (France)"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Au secours, Scarlett",
+      "publication_date": 2010,
+      "summary": "Roman familial. Roman d'humour.",
+      "cover": "https://covers.openlibrary.org/b/id/11325438-L.jpg",
+      "authorNames": [
+        "Maureen Johnson"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Multiversum",
+      "publication_date": 2012,
+      "summary": "Alex vit en Italie, Jenny en Australie. Ils ne se sont jamais vus pourtant ils se connaissent depuis toujours, unis par un lien télépathique très fort. Le jour où ils cherchent à se rencontrer, ils découvrent qu'il existe une infinité d'univers parallèles et que la réalité qui les entoure n'est qu'une de ces multiples dimensions. Parviendront-ils à se rejoindre tandis que leur destin semble lié à celui, inéluctable, de la Terre? Existe-t-il un monde où vivre leur amour?\n\nLittérature jeunesse : roman fantastique\n\nRoman d'amour. Roman fantastique",
+      "cover": "https://covers.openlibrary.org/b/id/12901624-L.jpg",
+      "authorNames": [
+        "Leonardo Patrignani"
+      ],
+      "genreNames": [
+        "Jeune adulte"
+      ]
+    },
+    {
+      "title": "Anthologie de la science-fiction québécoise contemporaine",
+      "publication_date": 1988,
+      "summary": "L'auteur, qui a choisi presque uniquement des textes des années 1980, note la quasi-impossibilité d'inclure des parties de roman dans une anthologie (d'où l'absence d'Agnès Guitard). Classement thématique: Les Terres du futur ou hypothétiques - Les autres planètes et les voyages dans l'espace - Les autres formes de vie ou de réalité vivante (cybernétique, génétique et vie extra-terrestre). Vingt auteurs représentés: Michel Lord, Jacques Brossard, L.-P. Hébert, Elisabeth Vonarburg, etc. Notices biobibliographiques. Préface, p. 9-25, proposant, outre des considérations théoriques, une petite histoire de la science-fiction au Québec.",
+      "cover": "https://covers.openlibrary.org/b/id/2186518-L.jpg",
+      "authorNames": [
+        "Michel Lord"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "Casse-tête dans le cosmos",
+      "publication_date": 1981,
+      "summary": "Par un mathématicien célèbre pour ses \"jeux\" publiés régulièrement dans \"Scientific American\", une série de 34 problèmes sous forme de courts récits de science-fiction parus à partir de 1976 dans le \"Isaac Asimov's science-fiction magazine\". L'intérêt de ces jeux vient de ce qu'ils sont prolongés par trois séries de réponses, pour chacun d'eux, selon une graduation de compréhension. Il est évident que les deux premières n'apportent pas la solution mais peuvent y conduire. Agréable et instructif.",
+      "cover": "https://covers.openlibrary.org/b/id/14317538-L.jpg",
+      "authorNames": [
+        "Martin Gardner"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "Le livre d'or de la Science-Fiction - Isaac Asimov",
+      "publication_date": 1983,
+      "summary": "La preuve (trans. of Evidence 1946)\r\nPersonne ici sauf... (trans. of Nobody Here But— 1953)\r\nCroire (trans. of Belief 1953)\r\nLes idées ont la vie dure? (trans. of Ideas Die Hard)\r\nL'amour, vous connaissez ? (trans. of What Is This Thing Called Love? 1961)\r\nQuand les ténèbres viendront? (trans. of Nightfall 1941)\r\nLa cane aux œufs d'or? (trans. of Pâté de Foie Gras 1956)\r\nL'élément qui manque? (trans. of The Missing Item 1977)\r\nLe crime suprême? (trans. of The Ultimate Crime 1976)\r\nCe qu'on s'amusait! (trans. of The Fun They Had 1951)\r\nLes fournisseurs de rêves? (trans. of Dreaming Is a Private Thing 1955)",
+      "cover": "https://covers.openlibrary.org/b/id/8674669-L.jpg",
+      "authorNames": [
+        "Isaac Asimov"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "Rude journée pour Robin",
+      "publication_date": 2001,
+      "summary": "\"Après un saut de 60 ans dans le futur, Robin vit un véritable cauchemar. Mais l'aventure est bien réelle, et semble loin de tirer à sa fin! Comment Robin reviendra-t-il à sa petite vie tranquille?\" Réf. La Sélection de livres pour enfants de Communication-Jeunesse 2001-2002.",
+      "cover": "https://covers.openlibrary.org/b/id/10310903-L.jpg",
+      "authorNames": [
+        "Susanne Julien"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "L'univers de la science-fiction ... et au-delà",
+      "publication_date": 2012,
+      "summary": "\"Véritable rétrospective du genre, 'L'univers de la science-fiction ... et au-delà' nous fait découvrir et redécouvrir les films et séries qui ont durablement marqué la culture populaire. Des premiers trucages et effets spéciaux de 'Flash Gordon' ou 'Doctor Who', de la révolution cinématographique de 'La guerre des étoiles', aux images de synthèse les plus sensationnelles de 'Matrix' ou 'Avatar', on retrouve à travers les décennies les films et séries, souvent devenus cultes, les plus influents de leur époque : 'La quatrième dimension', ''Star Trek', '2001 : l'Odyssée de l'espace', 'Battlestar Galactica', 'Alien', 'Blade runner', ''E.T. l'extraterrestre', 'Terminator', 'X-files', 'Babylon 5', 'Stargate' ...\" [Source : extrait du rabat de jaquette].",
+      "cover": "https://covers.openlibrary.org/b/id/12908764-L.jpg",
+      "authorNames": [
+        "Michael Mallory"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "Lord Gamma",
+      "publication_date": 2000,
+      "summary": "La route est droite, légèrement déclive. Elle parcourt une plaine désertique interminable. Un crépuscule permanent baigne de ses feux ce paysage halluciné. Des bunkers signalent au bord de la route la présence ici et là de stations souterraines où vivent des hommes qui se tiennent pour les rescapés d'une catastrophe nucléaire. Des hommes dont les modèles se répètent à l'identique d'une station à l'autre. Des clones. A bord d'une Pontiac hors d'âge, Stan Ternasky, seul usager de la route, poursuit un voyage dont il ignore la destination. Guidé par le speaker de Radio Gamma, il descend dans les bunkers à la recherche de \" l 'original \" de sa compagne Prill ; c'est à ce prix qu'il espère comprendre l'univers où il a échoué, le comprendre pour l'affronter. Road movie postatomique, frileur de science-fiction, LORD GAMMA est un inquiétant roman de suspense qui se plaît à égarer son lecteur entre réel et virtuel, dans le temps comme dans l'espace.",
+      "cover": "https://covers.openlibrary.org/b/id/8781388-L.jpg",
+      "authorNames": [
+        "Michael Marrak"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "Sept nouvelles d'anticipation et de science-fiction - Classiques et Contempora",
+      "publication_date": 2020,
+      "summary": "Châtiment sans crime / Ray Bradbury\r\nSatisfaction garantie / Isaac Asimov\r\nLe Dôme / Fredric Brown\r\nFrère de la machine / Richard Matheson\r\nLa Perfection / Jacques Sternberg\r\nLa Classe de maître Moda / Pierre Bordage \r\nAlter Ego / Colin Thibert",
+      "cover": "https://covers.openlibrary.org/b/id/10490679-L.jpg",
+      "authorNames": [
+        "Isaac Asimov"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "Destination Jules Verne",
+      "publication_date": 2005,
+      "summary": "La terre, la mer et l'espace, trois univers propices à la science-fiction et à la découverte de phénomènes naturels fantastiques. A travers trois romans de J. Verne, \"20.000 lieues sous les mers\", \"Voyage au centre de la Terre\" et \"De la Terre à la Lune\", l'ouvrage explore ces thèmes scientifiques (sous-marins, volcans, fusées, etc.) et permet de faire travailler l'imagination de l'enfant.",
+      "cover": "https://covers.openlibrary.org/b/id/10747879-L.jpg",
+      "authorNames": [
+        "Gwenaëlle Aznar"
+      ],
+      "genreNames": [
+        "Science-fiction"
+      ]
+    },
+    {
+      "title": "Vicious",
+      "publication_date": 2016,
+      "summary": "1 v. (387 p.) ; 21 cm",
+      "cover": "https://covers.openlibrary.org/b/id/15055488-L.jpg",
+      "authorNames": [
+        "L.J. Shen"
+      ],
+      "genreNames": [
+        "Romance"
+      ]
+    },
+    {
+      "title": "Sexe, romance et best-sellers",
+      "publication_date": 2006,
+      "summary": "Auteur à succès de romans à l'eau de rose sous le nom de Céleste d'Arcy, Jack Carter est un romantique qui entend se réserver pour le grand amour et vit seul avec ses personnages. Sa soeur lui demande d'héberger Molly, une amie déjantée aux moeurs débridées.",
+      "cover": "https://covers.openlibrary.org/b/id/11399029-L.jpg",
+      "authorNames": [
+        "Nina Killham"
+      ],
+      "genreNames": [
+        "Romance"
+      ]
+    },
+    {
+      "title": "Spirale Infernale",
+      "publication_date": 2017,
+      "summary": "La passion d’un homme, les mensonges d’un autre. L’amour pourra-t-il même réparer le plus sombre des cœurs ?\r\n\r\nTrent Hanson est un phénomène du patinage artistique, adoré par des millions de personnes à travers le monde. Toute sa vie a été consacrée au sport qu’il aime, alors même que ledit sport – et sa propre famille – lui tourne le dos. Depuis la patinoire d’entraînement jusqu’aux Jeux Olympiques et au salon de ses parents, Trent se bat contre les intimidateurs et les homophobes pour devenir l’homme gay et fier qu’il est. Toutefois, les combats incessants le laissent fatigué, solitaire et nerveux. Ses craintes devront être mises de côté lorsqu’il est embauché pour passer l’été à travailler avec l’équipe de hockey sur glace des Harrisburg Railers. Qui aurait pu deviner que l’homme à qui le destin a décidé de le jumeler n’est autre que Dieter Lehmann, autoproclamé dieu du sexe, un homme qui semble avoir tout à prouver, sans oublier de mentionner qu’il ne se soucie pas de savoir qui il blesse pour parvenir à ses fins.\r\n\r\nDieter a passé bien trop d’années à croupir dans les ligues mineures et a une addiction secrète aux médicaments, ce qui signifie que sa carrière se retrouve prise dans une spirale infernale. Son ex le fait chanter et il est sur le point de renoncer à tout cela. Cependant, quand il est appelé en renfort lors d’un match pour la Coupe Stanley, il doit dissimuler ses blessures, obtient un avant-goût de ce que c’est de jouer dans la LNH et il réalise qu’une place sur la liste des remplaçants des Railers est ce qu’il désire avant tout. Bien plus que d’écouter son cœur, que d’avoir à se soucier de ce patineur artistique exaspérant qui s’immisce sous sa peau. Lorsqu’il franchit les limites pour obtenir ce qu’il veut, il comprend qu’il s’est égaré. Il doit changer, mais n’est-il pas déjà trop tard pour sa carrière et ses chances de pouvoir aimer ?",
+      "cover": "https://covers.openlibrary.org/b/id/15120570-L.jpg",
+      "authorNames": [
+        "RJ Scott"
+      ],
+      "genreNames": [
+        "Romance"
+      ]
+    },
+    {
+      "title": "Chronique des jours à venir",
+      "publication_date": 2007,
+      "summary": "En 1999, David Lambert, archéologue, s'apprête à remonter le temps dans la machine de H.G. Wells et se retrouve un demi-millénaire plus tard dans un monde dépeuplé où toute civilisation est détruite. Utilisant les méthodes d'investigation archéologique, il va tenter de comprendre l'origine de cette catastrophe et partir à la recherche d'éventuels survivants.",
+      "cover": "https://covers.openlibrary.org/b/id/10970203-L.jpg",
+      "authorNames": [
+        "Ronald Wright"
+      ],
+      "genreNames": [
+        "Romance"
+      ]
+    },
+    {
+      "title": "Aventures d'Alice au Pays des Merveilles",
+      "publication_date": 1865,
+      "summary": "The first French translation of Alice's Adventures in Wonderland (there have been no less than seventeen others) was supervised by Lewis Carroll himself. In the opinion of many experts, and countless older and younger French readers, it is still the best. It has a remarkable freshness and originality, and admirably renders the English puns and parodies with French equivalents. \"How Doth the Little Crocodile?\" for instance, is turned into a parody of La Fontaine, the staple of French lesson books.\r\nCarroll picked Henri Bué as translator on the recommendation of Bué's father, who was an Oxford colleague. The younger Bué was just at the beginning of his career, and Carroll could not have known that he would go on to distinguish himself both as a translator and as an author and editor. Bué worked rapidly, and had the translation done in a couple of months. Carroll, on the other hand, spent another two years making certain of it. He solicited the opinions of many friends to test the puns and verses. The prose he seems to have been able to judge for himself, and he wrote to his publisher that he was highly pleased with it. \r\nThis reprinting of the first edition is complete with the forty-two Tenniel illustrations that were originally included. Of course it is not just for French readers. As one London reviewer, who called it \"a delicious translation,\" remarked: \"We could almost (almost, but not quite) wish we had never read it in English, in order to have the pleasure of reading it in French.\" He went on to say: \"It is an exquisite book in appearance, the same size, type, and illustrations as the original volume; and the fun is wonderfully preserved.\" He also pointed out that it would be a great help to the \"young folks in their studies.\" That is as true today as it was a hundred years ago, for the charm of the French Alice, like that of the original, has only grown with time. \r\n--back cover",
+      "cover": "https://covers.openlibrary.org/b/id/6380231-L.jpg",
+      "authorNames": [
+        "Lewis Carroll"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "Une aventure de Sherlock Holmes",
+      "publication_date": 1887,
+      "summary": "ROMAN POLICIER-ENQUETE-MYSTERE",
+      "cover": "https://covers.openlibrary.org/b/id/10562330-L.jpg",
+      "authorNames": [
+        "Arthur Conan Doyle"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "Rasselas, Prince d'Abyssinie",
+      "publication_date": 1759,
+      "summary": "Numeric edition only pdf and epub, réédition de celle de 1836, qui était bilingue ; seul le français a été conservé.",
+      "cover": "https://covers.openlibrary.org/b/id/7398485-L.jpg",
+      "authorNames": [
+        "Samuel Johnson"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "Astérix chez les Bretons",
+      "publication_date": 1966,
+      "summary": "Asterix and Obelix, warriors of the last village in Gaul still free after the Roman invasion, set out on a mission to deliver a barrel of their druid's famous magic potion to help Asterix's cousin in Britain fight off the invading Roman army.",
+      "cover": "https://covers.openlibrary.org/b/id/12868429-L.jpg",
+      "authorNames": [
+        "René Goscinny"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "L'aventure commence",
+      "publication_date": 2008,
+      "summary": "Premier tome où l'on suit les aventures de trois oursons de régions nord-américaines différentes réunis dans leur quête d'un monde meilleur pour les bêtes. Kallik, l'oursonne blanche, Toklo le jeune grizzly et Lusa, l'ourse noire d'un zoo, après avoir quitté leurs parents de gré ou de force, ont tous en commun de voir leur territoire transformé par l'Homme sans égards à leur survie. Sur la banquise, la glace fond de plus en plus tôt, ce qui diminue les chances de l'ours blanc de s'alimenter en prévision de la saison chaude. Par ailleurs, dans les montagnes de l'Ouest canadien, les grizzlys craignent les \"bêtes feux \" qui empruntent de larges \"sentiers\" et fracassant les cerfs et autres animaux sauvages au passage, et c'est sans parler des saumons qui ne remontent plus les rivières et des forêts décimées. Lusa, quant à elle, qui est née en captivité, ne connaît pas la vie sauvage, mais en rêve en secret. L'arrivée de la mère de Toklo au zoo fait ressurgir cette envie qu'elle a de découvrir le monde. Elle promet à la femelle, terrassée par la perte de Toby et par sa capture, qu'elle retrouvera son fils. Pendant ce temps, ce dernier fait la rencontrer d'Ujurak, un ourson de légende capable de se transformer à volonté. [SDM].\r\n\r\nDe l'auteur de ##La Guerre des Clans##, une longue saga de chats, cette série animalière d'apprentissage élabore avec soin un univers sauvage de bêtes dotées de parole, en préservant la perspective de chaque espèce sur son territoire et la naïveté des oursons en quête d'autonomie. Une leçon d'écologie invitant à la protection de la nature, doublée d'une touche de magie autochtone en ressort. Peut convenir aux bons lecteurs dès 9 ans. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12710622-L.jpg",
+      "authorNames": [
+        "Erin Hunter"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "Sam et Tom",
+      "publication_date": 2014,
+      "summary": "Sam et Tom creusent un trou dans le jardin. Désespérant de trouver quelque chose d'intéressant, il tombent pourtant sur un os qui va révéler bien des surprises. (Electre).",
+      "cover": "https://covers.openlibrary.org/b/id/12464508-L.jpg",
+      "authorNames": [
+        "Mac Barnett"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "Les aventures de Beekle",
+      "publication_date": 2014,
+      "summary": "An imaginary friend waits a long time to be imagined by a child and given a special name, and finally does the unimaginable--he sets out on a quest to find his perfect match in the real world.",
+      "cover": "https://covers.openlibrary.org/b/id/12827870-L.jpg",
+      "authorNames": [
+        "Dan Santat"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "Bone",
+      "publication_date": 1996,
+      "summary": "Chassés de leur village à la suite d'une énième machination orchestrée par Phoney, les trois comparses se perdent dans le désert et se retrouvent dans une vallée où ils seront amenés à vivre de nombreuses aventures avant de regagner leur Boneville natal. Dragons, rats-garous, inquiétants personnages encapuchonnés, mamies coursant contre les vaches dans le pré et autres créatures tour à tour loufoques, attachantes et effrayantes croiseront leur route ...",
+      "cover": "https://covers.openlibrary.org/b/id/10384431-L.jpg",
+      "authorNames": [
+        "Jeff Smith"
+      ],
+      "genreNames": [
+        "Aventure"
+      ]
+    },
+    {
+      "title": "La guerre des clans",
+      "publication_date": 2003,
+      "summary": "Jamais Coeur de Feu n'aurait pensé devoir affronter tant d'épreuves! Après l'incendie qui a ravagé la forêt, il se retrouve à la tête d'un clan affaibli. Et Étoile Bleue ne lui est d'aucun secours : la vieille meneuse n'est plus que l'ombre d'elle-même. Pourtant, un nouveau défi attend le jeune lieutenant : une meute de chiens sanguinaires rôde sur leur territoire. Dans la guerre impitoyable qui se prépare, pourra-t-il sauver les siens?\n\nNous suivons dans ce tome le parcours d'un chaton, Rusty, qui, insatisfait, quitte sa vie domestique. Il va intégrer le Clan du Tonnerre, un clan de chats sauvages, et va devoir apprendre à survivre dans un milieu hostile. En effet, le Clan de l'Ombre, le Clan du Vent, le Clan de la Rivière et le Clan du Tonnerre se livrent d'incessantes querelles au sujet de leurs territoires respectifs. Balloté entre querelles intestines, guerres territoriales, la simple survie dans la nature et l'apprentissage du code du guerrier, Rusty, rebaptisé Nuage de Feu, nous fait découvrir un monde plein de rebondissements",
+      "cover": "https://covers.openlibrary.org/b/id/10313403-L.jpg",
+      "authorNames": [
+        "Erin Hunter"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Le mystère de l'étoile polaire",
+      "publication_date": 1986,
+      "summary": "Deuxième volume des aventures de Sally Lockhart. Après avoir élucidé la mort de son père, la jeune femme ne renonce pas à ses activités de détective, mais devient aussi conseillère en placements financiers. Une cliente ayant perdu ses économies dans la faillite d'une entreprise lui demande son aide. Avec ses amis Frederick et Jim, Sally suit la piste d'un homme d'affaires sans scrupule qui dirige une entreprise bien mystérieuse : L'Étoile Polaire. Son enquête devient dangereuse. -- Roman policier bien ficelé aux nombreux rebondissements ayant pour cadre l'atmosphère ténébreuse du vieux Londres de la fin du 19e siècle. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/11004923-L.jpg",
+      "authorNames": [
+        "Philip Pullman"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Mystère",
+      "publication_date": 2008,
+      "summary": "Aujourd'hui, c'est mercredi : Pierre et Céline sont à la maison, leurs parents ne rentreront que le soir. En prenant leur petit déjeuner dans la cuisine, ils découvrent une mystérieuse enveloppe. Celle-ci contient un message qui va les entraîner dans une curieuse aventure. Attention, un message peut en cacher un autre ! [4e de couv.]",
+      "cover": "https://covers.openlibrary.org/b/id/12917054-L.jpg",
+      "authorNames": [
+        "Ann Rocard"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Mystères et chocolats",
+      "publication_date": 2001,
+      "summary": "A quatorze ans, Anne-Marie Fournier est la plus jeune auteure inscrite à l'Association des écrivains franco-ontariens. Un élément intéressant pour les jeunes lecteurs, c'est que l'héroïne de ce roman est âgée de treize ans. Les jeunes pourront donc aisément s'identifier à elle. En outre, le ton de ce roman est résolument destiné aux jeunes. On y retrouve des expressions qui sont propres aux jeunes telles que \"super bonne humeur\", \"hyper hâte\", \"dac\", \"cool\". Le langage et la syntaxe utilisés dans ce roman sont simples, à la limite un peu trop. De plus, il y a quelques coquilles de français ici et là, mais rien pour nuire trop sérieusement à la qualité d'ensemble de l'ouvrage. Un roman d'intrigue mais sans violence. Mlle Fournier possède déjà le bon goût de s'attacher les lecteurs par des procédés littéraires et des personnages attachants plutôt que par des émotions fortes et trop faciles. L'auteure possède déjà un talent certain, en souhaitant qu'en gagnant en maturité.\n\nCette belle créativité. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/11816800-L.jpg",
+      "authorNames": [
+        "Anne-Marie Fournier"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Mamie mystère",
+      "publication_date": 2004,
+      "summary": "Pour la première fois depuis la mort de son grand-père, Alice revient chez sa grand-mère qu'elle surnomme Manga. Mais dès son arrivée, elle réalise que Manga a changé : elle a arrêté la peinture, sa passion, et se comporte bizarrement.",
+      "cover": "https://covers.openlibrary.org/b/id/11430780-L.jpg",
+      "authorNames": [
+        "Marie-Sophie Vermot"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Le mystère du trésor disparu",
+      "publication_date": 2000,
+      "summary": "Un galion, un trésor, des pirates ! Ah, quelle aventure incroyable dans les mers tropicales ! Tout a commencé quand j'ai reçu une lettre, parfumée à la lavande, de ma tante Toupie..",
+      "cover": "https://covers.openlibrary.org/b/id/10970797-L.jpg",
+      "authorNames": [
+        "Elisabetta Dami"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Une odeur de mystère",
+      "publication_date": 1994,
+      "summary": "Camille passe, une fois de plus, ses vacances chez sa grand-mère. Mais quelque chose a changé : une nouvelle odeur dans la chambre de bain, des chuchotements ... un vieux monsieur accordeur de piano ... Une trame simple, prévisible, exploitée avec réalisme et sensibilité.",
+      "cover": "https://covers.openlibrary.org/b/id/11735178-L.jpg",
+      "authorNames": [
+        "Bénédicte Froissart"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "La société du mystère",
+      "publication_date": 2017,
+      "summary": "596 pages ; 23 cm",
+      "cover": "https://covers.openlibrary.org/b/id/14487615-L.jpg",
+      "authorNames": [
+        "Dominique Fernandez"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Le mystère des dieux",
+      "publication_date": 2009,
+      "summary": "Après avoir rencontrer Zeus au sommet de la montagne d'Aeden, Michael Pinson retrouve sa classe d'élèves dieux pour la partie finale. Ayant échoué à cet examen, il commet l'irréparable : tuer un autre élève dieu. Condamné, il va connaître les affres d'une vie mortelle avec les perspectives qu'offre le savoir divin. Cependant, sur la Terre 18, il rencontre le grand amour.",
+      "cover": "https://covers.openlibrary.org/b/id/12829529-L.jpg",
+      "authorNames": [
+        "Bernard Werber"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Mystères et vieux matous",
+      "publication_date": 1991,
+      "summary": "Philippe et Marie-Hélène ouvre leur agence de détectives. Ils sont rapidement sur une affaire. A cette enquête s'ajoute la rivalité de M.-H. et Mélanie. Un roman vivant, rédigé dans un style alerte et direct.",
+      "cover": "https://covers.openlibrary.org/b/id/10392378-L.jpg",
+      "authorNames": [
+        "Danièle Desrosiers"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Le mystère Jessica",
+      "publication_date": 2003,
+      "summary": "Jessica, élève dilettante de quatrième, n'est pas une passionnée de littérature. Elle est beaucoup plus intéressée par le beau Kevin, grand dévoreur de livres. Pour l'approcher, elle décide donc de participer à un atelier d'écriture, pendant les vacances.",
+      "cover": "https://covers.openlibrary.org/b/id/10992837-L.jpg",
+      "authorNames": [
+        "Michel Amelin"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Nouveaux Mystères et Aventures",
+      "publication_date": 2004,
+      "summary": "Notre Dame de la Mort -- \r\nLes os -- \r\nLe mystère de la vallée de Sasassa -- \r\nNotre cagnotte du Derby -- \r\nLe récit de l'Américain.",
+      "cover": "https://covers.openlibrary.org/b/id/13324905-L.jpg",
+      "authorNames": [
+        "Arthur Conan Doyle"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Le mystère de la chambre 7",
+      "publication_date": 1996,
+      "summary": "Les parents de Marie se sont trouvés du travail dans une résidence privée. Cette maison cache un drame, un secret que Marie élucide. Un suspense bien mené par un petit personnage sympathique.",
+      "cover": "https://covers.openlibrary.org/b/id/10633595-L.jpg",
+      "authorNames": [
+        "Hélène Gagnier"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Le mystère Velázquez",
+      "publication_date": 2015,
+      "summary": "Nicolás paraît être né sous une mauvaise étoile. Sa mère meurt en le mettant au monde, et Nicolás est nain, pour la plus grande honte de son père, qui le vend à la cour d'Espagne. Il n'a que sept ans quand il arrive à Madrid, seul, malheureux et vulnérable. Mais Nicolás ignore qu'il va devenir un personnage respecté de la cour et le confident de l'immense peintre Diego Velázquez... [babelio.com]",
+      "cover": "https://covers.openlibrary.org/b/id/11169119-L.jpg",
+      "authorNames": [
+        "Eliacer Cansino"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Mystère à Illumis",
+      "publication_date": 2014,
+      "summary": "Sacha est de retour à Illumis, accompagné de ses nouveaux amis Lem et Clem, ainsi que de Serena, qui a décidé de devenir Dresseur Pokémon, elle aussi ! La jeune fille est impatiente de visiter la ville. Pourtant, elle est très loin d'imaginer l'étonnant secret qu'ils vont y découvrir... [4e de couv.]",
+      "cover": "https://covers.openlibrary.org/b/id/10789819-L.jpg",
+      "authorNames": [
+        "Natacha Godeau"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Mystère et crapaudaille",
+      "publication_date": 2003,
+      "summary": "Une nouvelle aventure du jeune valet Millefeuille accompagné de son cheval Petit-Pet qui doit affronter la sorcière Feltinelle, cette dernière ayant transformer son maître, Hugues de Flérimont, en crapaud.",
+      "cover": "https://covers.openlibrary.org/b/id/10789824-L.jpg",
+      "authorNames": [
+        "Yves Hughes"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Le Mystère Isolde",
+      "publication_date": 2013,
+      "summary": "1453. Il se passe des choses étranges dans un couvent proche de Rome. Les sœurs semblent frappées de folie. Isolde, la jeune et belle abbesse, est accusée d'hérésie et risque le bûcher! Luca Vero, un novice, est envoyé par le pape en mission secrète pour enquêter. Il a 17 ans, il est brillant, séduisant, il n'a pas les yeux dans sa poche. Et le charme de la belle Isolde ne le laisse pas indifférent... Saura-t-il surmonter les peurs et les superstitions? Pourra-t-il sauver Isolde?\r\n\r\nRoman historique. Roman policier\r\n\r\nLittérature jeunesse",
+      "cover": "https://covers.openlibrary.org/b/id/13190168-L.jpg",
+      "authorNames": [
+        "Philippa Gregory"
+      ],
+      "genreNames": [
+        "Mystère"
+      ]
+    },
+    {
+      "title": "Ubu roi",
+      "publication_date": 1896,
+      "summary": "The story of a jester dictator who became king in the king's place with the sole ambition of getting rich and eating. The full text is followed by a file containing an author's identity card, chronological benchmarks, an identity card of the work, a study of the context, an analysis of the genre, action and Characters and other reading tools.",
+      "cover": "https://covers.openlibrary.org/b/id/12738038-L.jpg",
+      "authorNames": [
+        "Alfred Jarry"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Afrique: Paradoxes du développement",
+      "publication_date": 2010,
+      "summary": "SUBJECTS: Afrique--Politique et gouvernement--21e siècle\r\nDéveloppement économique--Afrique\r\nPanafricanisme",
+      "cover": "https://covers.openlibrary.org/b/id/7264928-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Islamisation et revivification spirituelle en ce XXIe siècle",
+      "publication_date": 2012,
+      "summary": "SUBJECTS: Islam et politique\r\n                   Islam--Coutumes et pratiques\r\n                   Islam--Afrique noire--Histoire\r\n                   Islam and politics\r\n                   Islam--Customs and practices\r\n                   Islam--Africa, Sub-Saharan--History",
+      "cover": "https://covers.openlibrary.org/b/id/7264926-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Constats",
+      "publication_date": 2013,
+      "summary": "MATIÈRES: Problèmes sociaux--Afrique\r\n                   Changement social--Afrique\r\n                   Progrès\r\n                   Afrique--Politique et gouvernement--21e siècle\r\n                   Social problems--Africa\r\n                   Social change--Africa\r\n                   Progress\r\n                   Africa--Politics and government--21st century",
+      "cover": "https://covers.openlibrary.org/b/id/13660624-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "États d'âme",
+      "publication_date": 2013,
+      "summary": "MATIÈRES: Changement social\r\n                   Participation sociale\r\n                   Action sociale\r\n                   Guerre et société\r\n                   Violence--Aspect social\r\n                   Social change\r\n                   Social participation\r\n                   Social action\r\n                   War and society\r\n                   Violence--Social aspects",
+      "cover": "https://covers.openlibrary.org/b/id/7264924-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "États d'âme",
+      "publication_date": 2012,
+      "summary": "MATIÈRES: Changement social\r\n                   Participation sociale\r\n                   Action sociale\r\n                   Guerre et société\r\n                   Violence--Aspect social\r\n                   Social change\r\n                   Social participation\r\n                   Social action\r\n                   War and society\r\n                   Violence--Social aspects",
+      "cover": "https://covers.openlibrary.org/b/id/7264923-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Dernier grand rêve et audace africain",
+      "publication_date": 2010,
+      "summary": "SUBJECTS: Développement économique--Afrique\r\n                   Développement social--Afrique\r\n                   Panafricanisme\r\n                   Paix\r\n                   Démocratie--Afrique\r\n                   Economic development--Africa\r\n                   Social change--Africa\r\n                   Pan-Africanism\r\n                   Peace\r\n                   Democracy--Africa",
+      "cover": "https://covers.openlibrary.org/b/id/7264922-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Art et pensées contemporaines",
+      "publication_date": 2010,
+      "summary": "SUBJECTS: Vie--Philosophie\r\n                   Vie spirituelle\r\n                   Problèmes sociaux\r\n                   Civilisation moderne et contemporaine\r\n                   Life\r\n                   Spiritual life\r\n                   Social problems\r\n                   Civilization, Modern",
+      "cover": "https://covers.openlibrary.org/b/id/7264929-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Politiques illusionnistes et involutives",
+      "publication_date": 2012,
+      "summary": "SUBJECTS: Afrique--Politique et gouvernement--21e siècle\r\n                   Élite (Sciences sociales)--Afrique\r\n                   Démocratie--Afrique\r\n                   Africa--Politics and government--21st century\r\n                   Elite (Social sciences)--Africa\r\n                   Democracy--Africa",
+      "cover": "https://covers.openlibrary.org/b/id/7264927-L.jpg",
+      "authorNames": [
+        "DRAME HAROUNA"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "L' impérialisme colonial français en Afrique",
+      "publication_date": 2007,
+      "summary": "Battant en brèche l'idée d'une paix coloniale scrupuleusement respectée, cet ouvrage démontre d'abord la difficulté du colonisateur à faire respecter sa loi et sa voie. Il met également en exergue la complexité de l'interaction colonisateur/colonisé qui pouvait aller de l'assujettissement à la collaboration/accommodement en passant par un rapport de défiance/résistance. S'appuyant sur des archives inédites, cet ouvrage revisite la participation des tirailleurs sénégalais à la défense métropolitaine et l'enjeu stratégique que fut la base de Dakar dans le second conflit mondial.",
+      "cover": "https://covers.openlibrary.org/b/id/5356418-L.jpg",
+      "authorNames": [
+        "Patrick-Papa Dramé"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Parlons mandinka",
+      "publication_date": 2003,
+      "summary": "Ce livre est consaré au peuple mandinka de Casamance au Sénégal, dont l'aire géographique s'étend du Rio Corubal en Guinée Bissau à la rivière Gambie. Le lecteur y trouvera les principales données historiques et culturelles, une description simple de cette langue originale du groupe mandé, des expressions usuelles , des textes de conversation courante et des proverbes ainsi que deux lexiques.",
+      "cover": "https://covers.openlibrary.org/b/id/5528291-L.jpg",
+      "authorNames": [
+        "Man̳ Lafi Dramé"
+      ],
+      "genreNames": [
+        "Drame"
+      ]
+    },
+    {
+      "title": "Le parc de l'horreur",
+      "publication_date": 1994,
+      "summary": "Partis visiter un zoo, les Morris se retrouvent devant un mystérieux parc d'attractions : le parc de l'Horreur. Mais, à l'intérieur, les employés sont des monstres et les attractions portent des noms étranges : la pente du destin, les rapides de la mort... Et s'il s'agissait de pièges pour faire disparaître les visiteurs à jamais ?\r\n\r\nTome 25 de la série Chair de poule",
+      "cover": "https://covers.openlibrary.org/b/id/14579063-L.jpg",
+      "authorNames": [
+        "Robert Lawrence Stine"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "Film d'horreur",
+      "publication_date": 1998,
+      "summary": "Silence, on tourne !\r\n\r\nAndrew et son frère sont ravis : ils vont passer leurs vacances à la Colo de l'épouvante, organisée par R. B. Farraday, le célèbre réalisateur qu'ils adorent. Le descriptif leur promet un séjour plein d'émotions. Mais, une fois sur place, les garçons découvrent que ce qui se passe dans cette colo est digne d'un vrai film d'horreur... Seront-ils malgré eux les acteurs de cette effrayante comédie ?\r\n\r\nTome 52 de la série Chair de poule",
+      "cover": "https://covers.openlibrary.org/b/id/14579107-L.jpg",
+      "authorNames": [
+        "Robert Lawrence Stine"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "La nuit des horreurs",
+      "publication_date": 1999,
+      "summary": "\"La maison est envahie par des sorcières, fantômes, squelettes et extraterrestres de toutes sortes. Noémie devra affronter ses peurs afin de sauver Madame Lumbago. Une écriture remplie d'images et une Noémie à l'imagination toujours aussi fertile.\" Réf. La Sélection de livres pour enfants de Communication-Jeunesse 2000-2001.",
+      "cover": "https://covers.openlibrary.org/b/id/10775064-L.jpg",
+      "authorNames": [
+        "Gilles Tibo"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "800 histoires d'horreur",
+      "publication_date": 2000,
+      "summary": "Un recueil de blagues classées par thèmes.",
+      "cover": "https://covers.openlibrary.org/b/id/12811155-L.jpg",
+      "authorNames": [
+        "Mary Touquet"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "Horreur en 3D",
+      "publication_date": 2013,
+      "summary": "\"Marc-Antoine et ses amis adorent les films d'horreur. Ça tombe bien, le cinéma Romero a prévu un programme double pour souligner la fin de l'année scolaire. L'attaque des jouets démoniaques et Les vampires dévorent la ville seront tous les deux présentés en 3D! Mais Marc-Antoine découvrira que la terreur, la vraie, n'est pas celle sur l'écran. Finalement, il avait peut-être raison de se méfier des nouveaux voisins ...\"",
+      "cover": "https://covers.openlibrary.org/b/id/12465006-L.jpg",
+      "authorNames": [
+        "Jonathan Reynolds"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "Aux portes de l'horreur",
+      "publication_date": 2005,
+      "summary": "Réédition. Le lendemain d'une dispute avec sa mère, Vincent se réveille métamorphosé. Il est invisible, immatériel tout en ressentant la douleur, et seul car il ne peut communiquer. -- Un récit cauchemardesque, tout à fait \"kafkéen\" où un adolescent renaît différent ou naît simplement à la vie. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12949305-L.jpg",
+      "authorNames": [
+        "Denis Côté"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "Peur, voleur et film d'horreur",
+      "publication_date": 2010,
+      "summary": "Kim, neuf ans, adore l'Halloween. Et cette année, elle est convaincue que ce sera une journée mémorable puisqu'elle est invitée chez son amie Camille à son premier bal costumé! La soirée commence en effet merveilleusement avec un buffet, un concours de costumes et la collecte de bonbons. Or, de retour de cette dernière, ses copains suggèrent d'écouter un film d'horreur emprunté en catimini au grand frère de Camille. Comment Kim pourrait-elle avouer à ses amis qu'elle a peur d'écouter un tel film sans faire rire d'elle? Et qui est le mystérieux individu qui lui a volé sa citrouille remplie de bonbons qu'elle avait oubliée sur la galerie? Serait-ce un revenant dont parlent les légendes? Et si la vérité était plus terrible encore?\n\nUn récit oscillant entre l'humour, la morale et le mystère qui tisse un maigre frisson sur fond de nuit d'Halloween. De nombreuses thématiques sont intégrées de manière légère au récit, sans toutefois qu'aucune ne soit approfondie. L'auteure aborde ainsi la peur que soulèvent les films d'horreur chez le public auquel ils ne sont pas destinés (l'héroïne avoue avoir été traumatisée depuis qu'elle en a écouté un en cachette et refuse de répéter l'expérience), l'influence des pairs, la crainte de faire rire de soi, les dangers de manger des bonbons sans qu'ils aient été vérifiés au préalable et les graves conséquences que peut entraîner la consommation incontrôlée de bonbons chez les diabétiques. Au terme du récit, on apprend en effet que le voleur de bonbons est la petite soeur de cinq ans de Camille, qui est amenée d'urgence à l'hôpital pour avoir dévoré des friandises en cachette alors qu'elle souffrait de diabète. Un court roman qui nous laisse donc avec un sentiment d'inachevé en amalgamant de manière peu convaincante (et sans donner de pistes de solution) une multitude de petites mises en garde. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/12965722-L.jpg",
+      "authorNames": [
+        "Sylviane Thibault"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "Retour au parc de l'Horreur",
+      "publication_date": 1999,
+      "summary": "Pourquoi Matthieu, Luc et Lise ont-ils accepté de retourner dans ce parc d'attractions maudit ? A peine ont-ils franchi le portail qu'ils le regrettent déjà. L'endroit est encore plus terrifiant que dans leurs souvenirs. Réussiront-ils à éviter tous les dangers et à sortir sains et saufs de ce cauchemar ?\r\n\r\nTome 62 de la série Chair de poule",
+      "cover": "https://covers.openlibrary.org/b/id/14579123-L.jpg",
+      "authorNames": [
+        "Robert Lawrence Stine"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "L'araignée sauvage",
+      "publication_date": 2004,
+      "summary": "Steve flirte à nouveau avec la fiction. Dans cette suite de La piste sauvage, il écrit le premier chapitre de son nouveau roman d'horreur qu'il fait lire à son professeur de français monsieur Vinet et à Patricia sa fidèle complice. L'adolescent s'inspire abondamment de son entourage mais omet de changer les noms de ses proches dont celui du directeur vers qui son personnage principal pointe un fusil. Le manuscrit tombe malheureusement entre les mains de ce dernier qui prend des mesures disciplinaires devant l'imagination meurtrière de son élève : \"Tu n'aurais pas pu écrire ton texte si ces idées ne t'avaient jamais traversé la tête\". (p.65) Steve se retrouve suspendu de classes pour deux semaines, emmené en Centre jeunesse pour un diagnostic inquiétant commis par un psychiatre qu'il n'a jamais rencontré, accusé de menaces de mort et devant subir un procès. -- Que le jeune auteur soit enfermé pour avoir commis un texte de fiction et que celui-ci serve à l'accuser sans examen médical n'est pas plausible dans un contexte québécois. Cette maladresse provient probablement de la jeunesse de l'apprenti écrivain dont François Gravel invente la parole. Le roman a toutefois le mérite de discuter du droit à la liberté d'écriture, à son processus, et expose certains mécanismes psychologiques (catharsis, déplacement) et troubles de personnalités ainsi qu'il soumet un tristeconstat des injustices que peuvent parfois subir de jeunes contrevenants. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/11796875-L.jpg",
+      "authorNames": [
+        "François Gravel"
+      ],
+      "genreNames": [
+        "Horreur"
+      ]
+    },
+    {
+      "title": "Tartuffe",
+      "publication_date": 1707,
+      "summary": "Richard Wilbur's verse translation of Tartuffe has been acclaimed as a masterpiece in its own right. Set in rhymed couplets, it captures not only the tone of the original but the dramatic energy as well. Not surprisingly, the play in this translation has been performed regularly over the years.\n\nOne of Moliere's most popular plays, Tartuffe, written in 1669, tells the story of Orgon, a rich bourgeois who has become a prude and bigot in his middle age. He is the perfect mark for Tartuffe, a wily opportunist and swindler, who ingratiates himself with Orgon by affecting an air of piety. Soon the gulled Orgon not only hands over his fortune but offers his daughter in marriage to Tartuffe. But Orgon discovers his \"spiritual\" master's true nature in a most shocking and hilarious fashion.",
+      "cover": "https://covers.openlibrary.org/b/id/112023-L.jpg",
+      "authorNames": [
+        "Molière"
+      ],
+      "genreNames": [
+        "Comédie"
+      ]
+    },
+    {
+      "title": "Le Chevalier d'Olmedo",
+      "publication_date": 1606,
+      "summary": "Texte francais d'Albert Camus.",
+      "cover": "https://covers.openlibrary.org/b/id/3074594-L.jpg",
+      "authorNames": [
+        "Lope de Vega"
+      ],
+      "genreNames": [
+        "Comédie"
+      ]
+    },
+    {
+      "title": "Les réfugiés",
+      "publication_date": 1891,
+      "summary": "Les réfugiés portraiturés en ce roman de 1893 sont les protestants français qui doivent s'exiler après la malheureuse révocation de l'Édit de Nantes par Louis XIV en 1685. [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10569259-L.jpg",
+      "authorNames": [
+        "Arthur Conan Doyle"
+      ],
+      "genreNames": [
+        "Historique"
+      ]
+    },
+    {
+      "title": "Michelin Belgique – Grand-Duché de Luxembourg",
+      "publication_date": 1978,
+      "summary": "Les Services de Tourisme Michelin vous présentent leur guide Vert BELGIQUE - Grand-Duché de LUXEMBOURG.\r\n\r\nConçu pour enrichir vos vacances ou vos moments de loisir, ce guide décrit les beaux monuments, les œuvres d'art, les sites pittoresques. Pour faciliter vote voyage, il est inséparable des autres publications Michelin : cartes et guide Rouge Benelux (hôtels et restaurants). Cette édition tient compte des conditions actuelles du tourisme. Mais l'évolution permanente des aménagements et les variations du coût de la vie peuvent rendre périmés certains renseignements pratiques. Nos lecteurs sauront le comprendre.",
+      "cover": "https://covers.openlibrary.org/b/id/10581179-L.jpg",
+      "authorNames": [
+        "Michelin"
+      ],
+      "genreNames": [
+        "Historique"
+      ]
+    },
+    {
+      "title": "L’Empereur de toutes les maladies",
+      "publication_date": 2010,
+      "summary": "La lutte contre le cancer est une histoire humaine : une aventure pleine de découvertes dues au hasard, d’opportunités saisies au bon moment mais surtout une célébration de la ténacité des hommes. Des premiers traitements chirurgicaux, novateurs mais brutaux, jusqu’aux travaux des époux Curie sur les radiations et leur dénouement tragique ; des risques démesurés pris par Sidney Farber dans sa mise au point de la chimiothérapie jusqu’à l’auteur lui-même et au traitement de ses patients, ce livre captivant retrace un combat plusieurs fois centenaire. De nos jours, alors que le cancer devient une expérience universelle, le besoin de mieux connaître notre vieil ennemi et ses traitements est plus fort que jamais. Dans ce récit exceptionnel, traduit dans trente-cinq pays et notamment récompensé par le prix Pulitzer, Siddhartha Mukherjee nous dévoile le chemin parcouru pour résoudre l’un des grands mystères de la science et nous offre un aperçu fascinant de nos progrès futurs. (back cover)",
+      "cover": "https://covers.openlibrary.org/b/id/8186938-L.jpg",
+      "authorNames": [
+        "Siddhartha Mukherjee"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "Brando",
+      "publication_date": 1924,
+      "summary": "Après la biographie autorisée de Marlon Brando ##Les chansons que m'apprenait ma mère##, voici celle \"non autorisée\", de près de 900 pages, qui se révèle tout aussi croustillante de détails sur ses films, ses relations orageuses avec les femmes et, en particulier, ses problèmes avec ses enfants.",
+      "cover": "https://covers.openlibrary.org/b/id/13026789-L.jpg",
+      "authorNames": [
+        "Peter Manso"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "Dr Dre",
+      "publication_date": 2007,
+      "summary": "D'origine afro-américaine, André Young, connu sous le nom de Dr. Dre est le cofondateur du groupe de rap N.W.A., qu'il quitte en 1991. Son parcours est relaté à travers l'ascension des débuts, la chute, liée aux affaires de rivalités et violences, puis son retour, après avoir créé son propre label, Aftermath Entertainment et avoir lancé des stars comme Eminem, 50 Cent ou The Game et Eve.",
+      "cover": "https://covers.openlibrary.org/b/id/11405767-L.jpg",
+      "authorNames": [
+        "Ronin Ro"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "Tocqueville",
+      "publication_date": 1984,
+      "summary": "Traces the career of the French historian who visited the United States and wrote \"Democracy in America,\" in 1835.",
+      "cover": "https://covers.openlibrary.org/b/id/9404149-L.jpg",
+      "authorNames": [
+        "André Jardin"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "L'Homme qui donne la chair de poule",
+      "publication_date": 1997,
+      "summary": "R. L. Stine était-il un enfant terrible ? Avait-il une famille étrange ? Ses amis le trouvaient-ils bizarre ? A-t-il toujours cherché à effrayer ses lecteurs ? Où puise-t-il son inspiration ? Vous trouverez, dans ce livre sincère, tout ce que vous avez toujours voulu savoir sur l'homme qui donne la chair de poule !",
+      "cover": "https://covers.openlibrary.org/b/id/3101882-L.jpg",
+      "authorNames": [
+        "Robert Lawrence Stine"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "La biographie",
+      "publication_date": 2013,
+      "summary": "Harry et Zadel souhaitent la meilleure destinée pour leur enfant à venir, un fils, à n'en pas douter. Comme nombre de concitoyens, ils font appel à un biographe pour consigner dans un ouvrage de belle facture la vie de leur progéniture. Mais leurs moyens sont modestes et ils ne peuvent s'offrir que les services d'un biographe de piètre qualité, sorte d'écrivaillon contrarié. La biographie de Simon en sera bâclée. Et inachevée. Au sortir du pensionnat et de quatre années d'études, le jeune Simon s'ouvre à la vie. Sa ville d'origine est en pleine effervescence. Une atmosphère de liesse accompagne une fin de règne, celle du mémorialiste qui veille à l'ordre moral et régit les existences individuelles. Le monde dans lequel vit Simon est régi par les mots : comme si ce qui n'est pas écrit n'existe pas. Et vice versa. Voilà qui est commode pour récrire l'histoire. Depuis longtemps Simon a le sentiment que son avenir est tracé. Qu'il a peu de prise sur sa réalité. Eternel bon élève même lorsqu'il se comporte comme un cancre : il le vit comme une malédiction. Or, soudain, la page blanche le gifle avec violence. Simon découvre un exemplaire de sa biographie inachevée. Il lui revient soudain d'inventer la suite. D'imaginer. Libre, il est libre de vivre selon son bon vouloir. La révélation est vertigineuse et le champ des possibles infini. Autour de lui virevolte Irène, sulfureuse voisine qui tente de faire corriger sa biographie à elle, car on l'a affligée d'une nymphomanie embarrassante. L'imprimeur Grivel fait fortune sur le dos des autres. Et au fond d'un cloître humide, dans une chapelle abandonnée, Ferdinand, autodidacte, est un affranchi en somme. Avec la douce Sarah, ils se sont libérés du joug des existences prédéterminées. Peut-être pourront-ils aider Simon à écrire la suite de son histoire? Dans un roman célinien foisonnant et bariolé, Didier Desbrugères se prend au jeu et va au bout du fantasme de la liberté, remuant jusqu'aux pires tréfonds de la nature humaine.",
+      "cover": "https://covers.openlibrary.org/b/id/12778338-L.jpg",
+      "authorNames": [
+        "Didier Desbrugères"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "Rosebud",
+      "publication_date": 2006,
+      "summary": "Biographical anecdotes on Rudyard Kipling, Henri Cartier-Bresson, Paul Celan, Jean Moulin, Lady Diana Spencer, Picasso, and Pierre Bonnard.",
+      "cover": "https://covers.openlibrary.org/b/id/10036241-L.jpg",
+      "authorNames": [
+        "Pierre Assouline"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "Marseille, une biographie",
+      "publication_date": 2013,
+      "summary": "\"Marseille as-tu une âme? A force de la chercher en vain, j'avais fi ni par en douter. Et puis un soir de balade, j'ai compris: comme un vieux truand en cavale, la ville se planque dans un quartier reculé et sans histoire. Sous couvert de banlieue résidentielle, Saint-Marcel dissimule un oppidum vieux de vingt-six siècles, un château fort médiéval, la bastide de la plus grande famille provençale, un couvent marqué par une tragédie, une pagode vietnamienne, une chapelle mystérieuse, les ruines de la plus grande usine de l'âge d'or industriel marseillais, des cités à problèmes et le centre d'entraînement de l'Olympique de Marseille. Perché au sommet d'une butte, depuis les murs du vieil oppidum, je contemple la plus vieille ville de France, qui s'étale devant mes yeux. Et mon regard ne voyage pas dans l'espace, mais dans le temps. Petit à petit, poussée par le mistral, les orages, le soleil, Marseille va se dévoiler, chuchoter son histoire et révéler son mystère et son identité\"--Page 4 of cover.",
+      "cover": "https://covers.openlibrary.org/b/id/12152548-L.jpg",
+      "authorNames": [
+        "François Thomazeau"
+      ],
+      "genreNames": [
+        "Biographie"
+      ]
+    },
+    {
+      "title": "Perrault's popular tales",
+      "publication_date": 1675,
+      "summary": "Introduction in English, text in French.",
+      "cover": "https://covers.openlibrary.org/b/id/5788042-L.jpg",
+      "authorNames": [
+        "Charles Perrault"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Le prince heureux",
+      "publication_date": 1888,
+      "summary": "Avez-vous déjà rencontré une statue de prince qui pleure, un rossignol qui ne veut plus chanter l'amour, un géant qui a pitié des petits, un rat d'eau célibataire endurci, des feux d'artifice qui discutent le jour d'un mariage princier ? Jamais, bien sûr ! Alors, vite, ouvre ce recueil sens dessus dessous, car \"tout bon conteur commence par la fin, puis revient au commencement et conclut par le milieu \". C'est l'auteur qui le dit. [4e de couverture]",
+      "cover": "https://covers.openlibrary.org/b/id/12975810-L.jpg",
+      "authorNames": [
+        "Oscar Wilde"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Les Aventures de Tom Sawyer",
+      "publication_date": 1817,
+      "summary": "Cette édition est enrichie d'un dossier sur l'auteur et son oeuvre. A la fin du volume, quelques questions permettent au lecteur de vérifier sa compréhension du texte.",
+      "cover": "https://covers.openlibrary.org/b/id/10573321-L.jpg",
+      "authorNames": [
+        "Mark Twain"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Rashômon et autres contes",
+      "publication_date": 1952,
+      "summary": "Ensemble de contes sombres, cruels et inquiétants se déroulant dans le Japon ancien.",
+      "cover": "https://covers.openlibrary.org/b/id/10971528-L.jpg",
+      "authorNames": [
+        "Ryūnosuke Akutagawa"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Narn I chîn Húrin",
+      "publication_date": 2001,
+      "summary": "Des milliers d'années avant Le Seigneur des Anneaux, la Terre du Milieu est en proie aux luttes entre Morgoth et les Elfes. Morgoth va lancer une terrible malédiction contre Turin et NiÈenor, les enfants de Hurin ...",
+      "cover": "https://covers.openlibrary.org/b/id/12287400-L.jpg",
+      "authorNames": [
+        "J.R.R. Tolkien"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Strega Nonna",
+      "publication_date": 1934,
+      "summary": "When Strega Nona leaves him alone with her magic pasta pot, Big Anthony is determined to show the townspeople how it works.",
+      "cover": "https://covers.openlibrary.org/b/id/13187374-L.jpg",
+      "authorNames": [
+        "Tomie dePaola"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Les contes de Beedle le Barde",
+      "publication_date": 2008,
+      "summary": "Les \"Contes de Beedle le Barde\" sont les cinq contes de fées qui bercent l'enfance des jeunes sorciers. Chacun de ces contes a sa magie particulière qui enchantera les lecteurs et les fera frissonner. Le Sorcier et la marmite Sauteuse ; La Fontaine de la Bonne Fortune ; Le Sorcier au cour velu ; Babbitty Lapina et la souche qui gloussait ; Le Conte des trois frères. Les commentaires passionnants et malicieux du professeur Albus Dumbledore qui accompagnent chaque récit seront appréciés des sorciers comme des Moldus.",
+      "cover": "https://covers.openlibrary.org/b/id/15155524-L.jpg",
+      "authorNames": [
+        "J. K. Rowling"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Guili Lapin",
+      "publication_date": 2004,
+      "summary": "Trixie et son papa se rendent à la laverie en passant par les rues et le parc de leur quartier de New-York. Ils mettent la machine en route, mais, au retour, la fillette, qui ne sait pas encore parler, se met à hurler. C'est de retour à la maison, que sa maman comprend qu'elle a perdu son doudou.",
+      "cover": "https://covers.openlibrary.org/b/id/11640445-L.jpg",
+      "authorNames": [
+        "Mo Willems"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Pierre",
+      "publication_date": 1962,
+      "summary": "Pierre, têtu, ne sait répondre que \"ça m'est égal\" aux interrogations de ses parents. Et sa sottise le mène jusqu'à loger dans l'estomac du lion. C'est le docteur qui lui rend sa liberté. Depuis, Pierre promet de ne plus dire de sottises. Toute l'histoire passe dans l'illustration pleine de détails amusants.",
+      "cover": "https://covers.openlibrary.org/b/id/10572297-L.jpg",
+      "authorNames": [
+        "Maurice Sendak"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Les contes de Perrault",
+      "publication_date": 1862,
+      "summary": "A collection of eleven of Perrault's tales.",
+      "cover": "https://covers.openlibrary.org/b/id/6523755-L.jpg",
+      "authorNames": [
+        "Charles Perrault"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Contes Coréens",
+      "publication_date": 2016,
+      "summary": "The Digital Library of Korean Classics is a project undertaken by Literature Translation Institute of Korea (LTI Korea) to digitalize selected translated titles of Korean classics published in the late nineteenth to the early twenty-first century. \r\n\r\nLTI Korea is an affiliate of the Ministry of Culture, Sports, and Tourism of the Republic of Korea that seeks to promote Korean literature and culture around the world. \r\n\r\nThis e-book was made by scanning and converting the original book using OCR software. We have made every effort to ensure the book is free of any errors or omissions, but if you discover any, please email us so that we can improve the quality of the book.",
+      "cover": "https://covers.openlibrary.org/b/id/7894070-L.jpg",
+      "authorNames": [
+        "Inconnu"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Contes réalistes et contes fantastiques",
+      "publication_date": 1999,
+      "summary": "Petite collection à vocation scolaire (niveaux secondaire et collégial) comportant une dizaine de titres en juillet 2000. Le texte, intégral ou composé d'extraits, occupe environ la moitié des pages. Il est suivi d'une présentation (contexte sociohistorique, l'oeuvre expliquée, etc.), d'une plongée dans l'oeuvre (questions sur l'oeuvre à partir de plusieurs extraits) et d'annexes (tableau chronologique, etc.). [SDM].",
+      "cover": "https://covers.openlibrary.org/b/id/10636258-L.jpg",
+      "authorNames": [
+        "Guy de Maupassant"
+      ],
+      "genreNames": [
+        "Conte"
+      ]
+    },
+    {
+      "title": "Rasselas, Prince d'Abyssinie",
+      "publication_date": 1759,
+      "summary": "Numeric edition only pdf and epub, réédition de celle de 1836, qui était bilingue ; seul le français a été conservé.",
+      "cover": "https://covers.openlibrary.org/b/id/7398485-L.jpg",
+      "authorNames": [
+        "Samuel Johnson"
+      ],
+      "genreNames": [
+        "Poésie"
+      ]
+    },
+    {
+      "title": "Le concours de poésie",
+      "publication_date": 2011,
+      "summary": "Un club de poésie ouvre ses portes à Raxford ! Lors d'une réunion, les Téa Sisters découvrent le journal intime d'une ancienne étudiante, qui les bouleverse : cette M.R. et ses quatre amies leur ressemblent tant ! Les jeunes poétesses décident alors de remonter le temps pour en savoir plus sur celles qui les ont précédées dans les couloirs du collège?\n\nUn club de poésie ouvre ses portes à Raxford ! Lors d'une réunion, les Téa Sisters découvrent le journal intime d'une ancienne étudiante, qui les bouleverse : cette M.R. et ses quatre amies leur ressemblent tant ! Les jeunes poétesses décident alors de remonter le temps pour en savoir plus sur celles qui les ont précédées dans les couloirs du collège?",
+      "cover": "https://covers.openlibrary.org/b/id/10562838-L.jpg",
+      "authorNames": [
+        "Elisabetta Dami"
+      ],
+      "genreNames": [
+        "Poésie"
+      ]
+    },
+    {
+      "title": "Amor - Poésie",
+      "publication_date": 2013,
+      "summary": "\"L'ennui me gagne, les autres s'agrippent à ma destinée voulant la piétiner pour tuer le leur, d'ennui. Mais l'heure a sonné et je me défends gracieusement face à l'ennemi, m'engage sur le jeu, le monopole de la vie. Je ne jette pas les dés ni de poudre aux yeux, juste me défie de traverser la fange sans m'y noyer.\"",
+      "cover": "https://covers.openlibrary.org/b/id/13484084-L.jpg",
+      "authorNames": [
+        "Nancy Morepa"
+      ],
+      "genreNames": [
+        "Poésie"
+      ]
+    }
+  ]
+}

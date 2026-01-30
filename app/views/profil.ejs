@@ -1,0 +1,143 @@
+<%- include("partials/header.ejs") %>
+
+
+    <main class="section_main">
+
+
+        <!-- Infos profil -->
+         <div class="section_library_wrapper">
+        <section class="section_info">
+            <h1 class="main_h1">Mon profil</h1>
+            <div class="section_info_profil">
+                <div class="section_info_group">
+                    <img src="/img/Livre-random.jpg" alt="avatar" class="section_info_img">
+                    <button type="button" class="section_info_button">
+                        <img src="/img/icons/typcn--edit.svg" alt="edit-profil" title="Editer le profil"
+                            class="section_info_button_edit">
+                    </button>
+                </div>
+
+                <form action="/profil/update" method="POST" class="section_info_data">
+                    <div class="section_info_info">
+                        <p class="section_info_value">
+                            <%= user.username %>
+                        </p>
+                        <input type="text" name="pseudo" id="pseudo" class="section_info_input" placeholder="pseudo"
+                            value="<%= user.username %>">
+                    </div>
+
+                    <div class="section_info_info">
+                        <p class="section_info_value">
+                            <%= user.email %>
+                        </p>
+                        <input type="email" name="email" id="email" class="section_info_input"
+                            placeholder="mail@gmail.com" value="<%= user.email %>">
+                    </div>
+
+                    <div class="section_info_info">
+                        <input type="password" name="password" id="password" class="section_info_input"
+                            placeholder="Nouveau mot de passe">
+                    </div>
+
+                    <button type="submit" class="section_info_validate primary">Valider</button>
+                </form>
+
+                <% if (success) { %>
+                    <div class="message message-success">
+                        Profil mis à jour avec succès !
+                    </div>
+                    <% } %>
+
+                        <% if (error) { %>
+                            <div class="message message-error">
+                                <% if (error==='user_not_found' ) { %>
+                                    Utilisateur non trouvé.
+                                    <% } else if (error==='pseudo_exists' ) { %>
+                                        Ce pseudo est déjà utilisé par un autre utilisateur.
+                                        <% } else if (error==='email_exists' ) { %>
+                                            Cet email est déjà utilisé par un autre utilisateur.
+                                            <% } else { %>
+                                                Une erreur est survenue.
+                                                <% } %>
+                            </div>
+                            <% } %>
+            </div>
+            </section>
+
+            <!-- Bibliothèque utilisateur -->
+            <section class="section_library">
+                <h2 class="section_info_h2"><a href="/bibliotheque">Ajouts récents à la bibliotheque</a></h2>
+
+                <div class="section_wrapper">
+                    <button class="carousel_btn prev primary" aria-label="Livre précédent">◄</button>
+                      <div class="carousel_viewport">
+                    <div class="section_info_library">
+                        <% if (filteredBooks && filteredBooks.length> 0) { %>
+                            <% filteredBooks.forEach(book=> { %>
+                                <% if (book) { %>
+                                    <a href="/livre/<%= book.id %>" class="section_info_article_link">
+                                        <article class="section_info_books">
+                                            <img src="<%= book.cover %>" alt="<%= book.title %>"
+                                                class="section_books_img">
+                                            <p class="section_info_book_title">
+                                                <%= book.title %>
+                                            </p>
+                                            <p class="section_info_book_author">
+                                                <% if (book.book_author && book.book_author.length> 0) { %>
+                                                    <%= book.book_author.map(a=> a.first_name + ' ' +
+                                                        a.last_name).join(',') %>
+                                                        <% } else { %>
+                                                            Auteur inconnu
+                                                            <% } %>
+                                            </p>
+                                            <p class="book_sticker <%= book.UserBook?.status %>">
+                                                <%= translateStatus(book.UserBook?.status) || 'Non défini' %>
+                                            </p>
+                                        </article>
+                                    </a>
+                                    <% } %>
+                                        <% }) %>
+                                            <% } else { %>
+                                                <p class="no-books-message">Vous n'avez pas encore de livres dans votre
+                                                    bibliothèque.</p>
+                                                <% } %>
+                                                </div>
+                    </div>
+                    <button class="carousel_btn next primary" aria-label="Livre suivant">►</button>
+
+                </div>
+                </section>
+            </div>
+</div>
+
+        <!-- Derniers livres consultés -->
+        <section class="section_books">
+
+            <h2 class="section_books_h2">Derniers livres consultés</h2>
+            <div class="section_wrapper">
+                <button class="carousel_btn prev primary" aria-label="Livre précédent">◄</button>
+                <div class="section_books_container">
+                    <% if (recentBooks && recentBooks.length> 0) { %>
+                        <% recentBooks.forEach(userBook=> { %>
+                            <% const book=userBook.Book; %>
+                                <% if (book) { %>
+                                    <div class="section_books_div">
+                                        <a href="/livre/<%= book.id %>" class="section_books_link">
+                                            <img src="<%= book.cover %>" alt="<%= book.title %>"
+                                                class="section_books_img"></a>
+                                        <% } %>
+                                    </div>
+                                    <% }) %>
+                                        <% } else { %>
+                                            <p class="no-books-message">Aucun livre consulté récemment.</p>
+                                            <% } %>
+                </div>
+                <button class="carousel_btn next primary" aria-label="Livre suivant">►</button>
+            </div>
+        </section>
+
+
+    </main>
+
+    
+    <%- include("partials/footer.ejs") %>

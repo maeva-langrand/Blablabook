@@ -1,0 +1,204 @@
+<%- include("partials/header.ejs") %>
+
+<main class="book_detail_main">
+
+  <section class="book_detail_header">
+
+    <% if (book.cover) { %>
+      <div class="book_detail_cover">
+        <img src="<%= book.cover %>" alt="Couverture <%= book.title %>">
+      </div>
+ <% if (book.user_status) { %>
+      <div id="book_sticker" class="book_sticker <%= book.user_status %>">
+        <%= book.user_status === "to_read" ? "À lire" : "Lu" %>
+      </div>
+    <% } else { %>
+      <div id="book_sticker" class="book_sticker" style="display:none;"></div>
+    <% } %>
+    <% } %>
+    
+
+    <div class="book_detail_info">
+
+      <% if (book.title) { %>
+        <h1 class="book_detail_title"><%= book.title %></h1>
+      <% } %>
+
+       
+      <% if (book.book_author && book.book_author.length) { %>
+        <h2 class="book_detail_author">
+          <%= book.book_author.map(a => a.first_name + ' ' + a.last_name).join(', ') %>
+        </h2>
+      <% } %>
+
+      <% if (book.publication_date || (book.book_genre && book.book_genre.length)) { %>
+        <p class="book_detail_meta">
+
+          <% if (book.publication_date) { %>
+            <span>Année : <%= book.publication_date %></span>
+          <% } %>
+
+          <% if (book.book_genre && book.book_genre.length) { %>
+            <span>
+              Genre :
+              <%= book.book_genre.map(g => g.name).join(', ') %>
+            </span>
+          <% } %>
+
+        </p>
+      <% } %>
+
+      <div class="book_detail_desktop">
+        <div class="book_detail_actions">
+          <div id="message_container"></div>
+
+          <% if (user) { %> 
+        <button class="primary book_add_toggle" aria-expanded="false" >
+          Ajouter à ma bibliothèque ⬍
+        </button>
+        <% } else { %> 
+    <a href="/login" class="book_detail_visitor primary">Se connecter pour ajouter à la bibliothèque</a>
+          <% } %>
+
+        <ul class="book_add_menu">
+
+          <li><button 
+  class="secondary add-to-library-btn"
+  data-book-id="<%= book.id %>"
+  data-status="to_read">
+  Ajouter à mes livres à lire
+</button></li>
+
+          <li><button 
+  class="secondary add-to-library-btn"
+  data-book-id="<%= book.id %>"
+  data-status="read">
+  Ajouter à mes livres lus
+</button></li>
+
+<% if (book.user_status === "to_read" || book.user_status === "read") { %>
+  <li>
+    <button class="secondary remove-from-library-btn" data-book-id="<%= book.id %>" data-status="remove">
+      Retirer de ma bibliothèque
+    </button>
+  </li>
+<% } %>
+</ul>
+      </div>
+
+    </div>
+
+  <% if (book.summary) { %>
+    <section class="book_detail_section">
+      <h3>Description</h3>
+      <p><%= book.summary %></p>
+      <a href="/livres" class="book_back secondary">← Retour à tous les livres</a>
+    </section>
+  </ul>
+</div>
+      
+    </section>
+
+  <% } %>
+
+<section class="book_reviews_section">
+  <h3>Avis des lecteurs</h3>
+
+    <% const averageRating = (reviews && reviews.length)
+      ? Number((reviews.reduce((total, reviewItem) => total + (reviewItem.rating || 0), 0) / reviews.length).toFixed(1))
+      : null; %>
+
+  <% if (averageRating !== null) { %>
+    <p class="book_reviews_meta">Note moyenne : <strong><%= averageRating %>/5</strong> · <%= reviews.length %> avis</p>
+  <% } %>
+
+  <% if (reviews && reviews.length > 0) { %>
+    <% reviews.forEach((reviewItem) => { %>
+      <div class="book_review">
+        <div class="book_review_header">
+          <h4 class="book_review_user"><%= (reviewItem.user && reviewItem.user.username) ? reviewItem.user.username : "Utilisateur" %></h4>
+          <p class="book_review_rating">
+            Note : <%= reviewItem.rating %>/5
+            <span class="stars">
+              <% for (let starIndex = 1; starIndex <= 5; starIndex++) { %>
+                <% if (starIndex <= reviewItem.rating) { %>
+                  <span class="star filled">★</span>
+                <% } else { %>
+                  <span class="star">☆</span>
+                <% } %>
+              <% } %>
+            </span>
+          </p>
+        </div>
+        <p class="book_review_text"><%= reviewItem.review %></p>
+
+        <% if (user && Number(user.id) === Number(reviewItem.user_id)) { %>
+          <div class="book_review_actions">
+            <details class="review_edit_details">
+              <summary class="edit_button">Modifier</summary>
+              <form action="/livre/<%= book.id %>/review/update" method="POST" class="edit_review_form">
+                <div class="form_group">
+                  <label for="rating_edit">Note :</label>
+                  <select name="rating" id="rating_edit" required>
+                    <% for (let ratingOption = 1; ratingOption <= 5; ratingOption++) { %>
+                      <option value="<%= ratingOption %>" <%= reviewItem.rating === ratingOption ? "selected" : "" %>><%= ratingOption %></option>
+                    <% } %>
+                  </select>
+                </div>
+
+                <div class="form_group">
+                  <label for="review_edit">Votre avis :</label>
+                  <textarea name="review" id="review_edit" rows="4" required><%= reviewItem.review %></textarea>
+                </div>
+                <div class="edit_actions_row">
+                  <button type="submit" class="submit_button">Mettre à jour</button>
+                  <button type="submit" class="delete_button" formaction="/livre/<%= book.id %>/review/delete" formmethod="POST">Supprimer</button>
+                </div>
+              </form>
+            </details>
+          </div>
+        <% } %>
+      </div>
+    <% }); %>
+  <% } else { %>
+    <p>Aucun avis pour le moment. Soyez le premier à laisser un avis !</p>
+  <% } %>
+
+  <!-- Formulaire pour ajouter/modifier un avis -->
+  <% if (user) { %>
+    <% if (!userReview) { %>
+      <div class="review_form_container">
+        <h4>Laissez un avis</h4>
+        <form action="/livre/<%= book.id %>/review" method="POST">
+
+          <div class="form_group">
+            <label for="rating">Note :</label>
+            <select name="rating" id="rating" required>
+              <option value="">-- Sélectionnez une note --</option>
+              <% for (let ratingOption = 1; ratingOption <= 5; ratingOption++) { %>
+                <option value="<%= ratingOption %>"><%= ratingOption %></option>
+              <% } %>
+            </select>
+          </div>
+
+          <div class="form_group">
+            <label for="review">Votre avis :</label>
+            <textarea name="review" id="review" rows="4" required></textarea>
+          </div>
+
+          <button type="submit" class="submit_button">Envoyer</button>
+        </form>
+      </div>
+    <% } else { %>
+      <p class="already_reviewed">Vous avez déjà laissé un avis. Utilisez les boutons à côté de votre avis pour le modifier ou le supprimer.</p>
+    <% } %>
+  <% } else { %>
+    <p><a href="/login">Connectez-vous</a> pour laisser un avis.</p>
+  <% } %>
+</section>
+
+</main>
+
+<script src="/js/addToLibraryButton.js"></script>
+
+<%- include("partials/footer.ejs") %>

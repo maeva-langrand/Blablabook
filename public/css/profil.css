@@ -1,0 +1,280 @@
+.main_h1 {
+  font-size: 2rem;
+  text-align: center;
+  text-transform: capitalize;
+  margin: 1rem;
+}
+
+.section_main {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+}
+
+.section_library_wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.carousel_viewport {
+  width: 100%;
+}
+
+.section_books {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 18%;
+  background-color: var(--second-color);
+  padding: 1rem;
+  margin: 0 1rem;
+  gap: 1rem;
+  order: -1;
+
+}
+
+
+.section_books_h2 {
+  max-width: 14rem;
+  text-align: center;
+}
+
+a {
+  color: var(--main-color);
+}
+
+a:hover {
+  color: var(--accent-color-1);
+}
+
+
+.section_books_img {
+  width: 100%;
+  height: 15rem;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: .5rem;
+  border-radius: 0.3rem;
+  display: block;
+}
+
+
+.section_books img {
+  width: 80%;        
+  max-height: 20rem; 
+  object-fit: cover;
+  object-position: center;
+  margin: 0.5rem auto;
+  border-radius: 0.3rem;
+  display: block;
+
+}
+
+
+.section_info_profil {
+  display: flex;
+  padding: 1rem;
+  padding-bottom: 5rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.section_info_info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-direction: column;
+  margin: 1rem;
+  font-size: 1.3rem;
+}
+
+.section_info_group {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: flex-end;
+  margin-left: 2rem;
+}
+
+.section_info_img {
+  width: 80%;
+  max-width: 13rem;
+  object-fit: cover;
+  height: auto;
+  object-fit: contain;
+  border-radius: 50% 20% / 10% 40%;
+}
+
+
+
+.section_info_button {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 1rem;
+  background: transparent;
+  border: none;
+
+}
+
+.section_info_input,
+.section_info_validate {
+  background-color: var(--second-color);
+  color: var(--text-primary);
+  display: none;
+}
+
+.section_info_button_edit {
+  width: 2rem;
+  height: 2rem;
+}
+
+body.standard-dark .section_info_button_edit,
+body.contrast-dark .section_info_button_edit {
+  filter: invert(1);
+}
+
+.section_info_info:first-child {
+  font-weight: 800;
+}
+
+/* mode édition  */
+.section_info_data.editing .section_info_value {
+  display: none;
+}
+
+.section_info_data.editing .section_info_input {
+  display: block;
+}
+
+
+.section_info_data.editing .section_info_validate {
+  display: block;
+}
+
+
+.section_info_text {
+  border: solid .1rem darkgray;
+  padding: .3rem;
+}
+
+.section_info_article_link {
+  text-decoration: none;
+  color: inherit;
+  flex: 1 1 12rem;     
+  max-width: 12rem;    
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0.75rem;
+  background-color: var(--second-color);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.section_info_h2 {
+  text-align: center;
+  background-color: var(--second-color);
+  padding: .3rem;
+}
+
+
+.section_info_library {
+ display: flex;
+ min-width: 100%;
+flex-wrap: wrap;       
+  gap: 1rem;            
+  justify-content: center;
+  padding: 1rem;
+}
+
+.section_wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel_btn {
+  display: none;
+}
+
+.section_info_books {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: .4rem;
+}
+
+.section_info_book_title {
+  max-width: 90%;
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--main-color);
+  white-space: nowrap;    
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.section_info_book_author {
+  font-size: 0.9rem;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin: 0 auto;
+}
+
+.book_sticker {
+  font-weight: bold;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.3rem;
+  font-size: 0.75rem;
+  pointer-events: none;
+}
+
+.book_sticker.to_read {
+  background-color: #113f94;
+  color: var(--text-secondary);
+}
+
+.book_sticker.read {
+  background-color: #1a791a;
+  color: var(--text-secondary);
+}
+
+
+@media (max-width: 1100px) {
+
+  .section_main {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+
+.section_books {
+  background-color: transparent;
+  order: 3;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section_books_h2 {
+  background-color: var(--second-color);
+  padding: .3rem;
+}
+
+.section_wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+}

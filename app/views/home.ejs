@@ -1,0 +1,43 @@
+<%- include("partials/header.ejs") %>
+<main class="index_main">
+
+  <% if (typeof user !== 'undefined' && user && user.isNew) { %>
+    <div class="success_auth_message">
+      ✓ Bienvenue <%= user.username %> ! Votre inscription a été validée. Vous pouvez maintenant explorer BlaBlaBook.
+    </div>
+  <% } %>
+
+  <section class="main_section_description">
+           <% if (user) { %> 
+    <h1 class="main_section_h1">Heureux de vous revoir, <%= user.username %> !</h1>
+       <% } else { %>
+
+    <h1 class="main_section_h1">Bienvenue sur BlaBlaBook</h1>
+ <% } %>
+      <p class="main_section_p"> Vous êtes lecteur ? Alors vous êtes sur la bonne page ! <strong>BlaBlaBook</strong> est un site qui réunit les passionnés de lecture qui veulent créer du lien avec d'autres lecteurs. <br>Que faire sur le site ? </p>
+      <ul class="main_section_list"> 
+        <li class="main_section_item"> Gérer votre bibliothèque numérique </li>
+        <li class="main_section_item"> Consulter tous nos livres </li>
+        <li class="main_section_item"> Retrouver des recommandations en fonction de vos lectures </li>
+        <li class="main_section_item"> Laissez des avis </li>
+        <li class="main_section_item"> Créer une communauté entre vous pour pouvoir échanger sur votre passion</li>
+      </ul>
+  </section>
+
+
+    <h2 class="main_section_h2"> Découvrez les livres les plus récents </h2>
+    
+    <section class="main_section_books">
+      <% books.forEach(book=> { %>
+      <div class="main_section_livres">
+        <img src="<%= book.cover %>" alt="Couverture de <%= book.title %>" class="main_section_div">
+       <a href="/livre/<%= book.id %>" class="main_section_button secondary"> Voir le détail </a>
+      </div>
+      <% }) %>
+
+  </section>
+
+    <a href="/livres" class="main_button primary"> Voir tous les livres </a>
+
+</main>
+<%- include("partials/footer.ejs") %>

@@ -1,0 +1,11 @@
+<%- include("partials/header.ejs") %>
+
+<main class="error_page">
+  <div class="error_container">
+    <h1><%= statusCode || 500 %> – <%= pagetitle || "Erreur" %></h1>
+    <p><%= message || "Une erreur est survenue." %></p>
+    <a href="/" class="primary">Retour à l'accueil</a>
+  </div>
+</main>
+
+<%- include("partials/footer.ejs") %>

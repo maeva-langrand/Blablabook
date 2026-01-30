@@ -1,0 +1,160 @@
+<%- include("partials/header.ejs") %>
+  <main class="main_library">
+
+    <h1 class="library_title">La Bibliothèque de <%= user.username %>
+    </h1>
+
+    <!-- Search bar -->
+    <div class="library_search_bar">
+      <form role="search" aria-label="Recherche dans ma bibliothèque" style="width: 100%;">
+        <input type="text" class="library_search_input" placeholder="Filtrer dans ma bibliothèque...">
+        <button type="button" aria-label="Effacer la recherche" class="library_clear_search">X</button>
+        </button>
+      </form>
+    </div>
+
+    <div class="library_sections_container">
+      <!-- To read -->
+      <section class="library_list_section">
+        <button class="library_toggle_button" data-target="library_to_read_list">
+          Livres à lire ▲
+        </button>
+
+        <div id="library_to_read_list" class="library_content active">
+          <button class="carousel_btn prev" aria-label="Livre précédent">◄</button>
+          <div class="carousel">
+            <div class="carousel_track">
+              <% toRead.forEach(book=> { %>
+                    <div class="book" data-search="<%= 
+    (
+      book.title + ' ' +
+      (book.book_author || [])
+        .map(a => a.first_name + ' ' + a.last_name)
+        .join(' ')
+    ).toLowerCase()
+  %>">
+                      <article class="books_book_card">
+                        <!-- Desktop link wrapping the whole article -->
+                        <a href="/livre/<%= book.id %>" class="books_book_link desktop-only" ></a>
+<div class="book_cover_wrapper">
+                        <% if (book.cover) { %>
+                          <img src="<%= book.cover %>" alt="Couverture <%= book.title %>"  class="book_cover">
+                          <% } %></div>
+                          
+   <div class="book_actions">
+      <button class="book_add_toggle primary" aria-expanded="false" title="Options">
+        +
+      </button>
+
+      <ul class="book_add_menu" aria-hidden="true">
+        <li>
+          <button class="add-to-library-btn secondary"
+            data-book-id="<%= book.id %>" data-status="read">
+            Déplacer vers les livres lus
+          </button>
+        </li>
+
+        <li>
+          <button class="remove-from-library-btn secondary"
+            data-book-id="<%= book.id %>" data-status="remove">
+            Retirer de ma bibliothèque
+          </button>
+        </li>
+      </ul>
+    </div>
+    <p class="sticker toread">À lire</p>
+                            <h3>
+                              <%= book.title %>
+                            </h3>
+                            <% if (book.book_author && book.book_author.length) { %>
+                              <p>
+                                <%= book.book_author.map(a=> a.first_name + " " + a.last_name).join(", ") %>
+                                  <!-- Mobile-only link -->
+                              </p>
+                              <a href="/livre/<%= book.id %>" class="mobile-only see-link secondary">voir</a>
+                              <% } %>
+                      </article>
+                    </div>
+                    <% }) %>
+                  </div>
+                </div>
+                <button class="carousel_btn next" aria-label="Livre suivant">►</button>
+            </div>
+      </section>
+
+      <!-- Already read books -->
+      <section class="library_list_section">
+        <button class="library_toggle_button" data-target="library_read_list">
+          Livres lus ▲
+        </button>
+
+        <div id="library_read_list" class="library_content active">
+          <button class="carousel_btn prev" aria-label="Livre précédent">◄</button>
+          <div class="carousel">
+            <div class="carousel_track">
+              <% read.forEach(book=> { %>
+                <div class="book" data-search="<%= 
+    (
+      book.title + ' ' +
+      (book.book_author || [])
+        .map(a => a.first_name + ' ' + a.last_name)
+        .join(' ')
+    ).toLowerCase()
+  %>">
+                  <article class="books_book_card">
+                    <!-- Desktop link wrapping the whole article -->
+                    <a href="/livre/<%= book.id %>" class="books_book_link desktop-only"></a>
+<div class="book_cover_wrapper">
+                    <% if (book.cover) { %>
+                      <img src="<%= book.cover %>" alt="Couverture <%= book.title %>" class="book_cover">
+                      <% } %>
+  <div class="book_actions">
+      <button class="book_add_toggle primary" aria-expanded="false" title="Options">
+        +
+      </button>
+
+      <ul class="book_add_menu" aria-hidden="true">
+        <li>
+          <button class="add-to-library-btn secondary"
+            data-book-id="<%= book.id %>" data-status="to_read">
+            Déplacer vers les livres à lire
+          </button>
+        </li>
+
+        <li>
+          <button class="remove-from-library-btn secondary"
+            data-book-id="<%= book.id %>" data-status="remove">
+            Retirer de ma bibliothèque
+          </button>
+        </li>
+      </ul>
+    </div></div>
+        <p class="sticker read">Lu</p>
+                        <h3>
+                          <%= book.title %>
+                        </h3>
+
+                        <% if (book.book_author && book.book_author.length) { %>
+                          <p>
+                            <%= book.book_author.map(a=> a.first_name + " " + a.last_name).join(", ") %>
+                          </p>
+                          <a href="/livre/<%= book.id %>" class="mobile-only see-link secondary">voir</a>
+                          <% } %>
+                  </article>
+                </div>
+                <% }) %>
+            </div>
+          </div>
+          <button class="carousel_btn next" aria-label="Livre suivant">►</button>
+        </div>
+      </section>
+    </div>
+
+  </main>
+
+  <script src="/js/togleOptionsLibrary.js"></script>
+  <script src="/js/librarySearch.js"></script>
+  <script src="/js/handleLibraryCarousel.js"></script>
+<script src="/js/handleLibraryActions.js"></script>
+  <script src="/js/toogleLibraryLists.js"></script>
+  <%- include("partials/footer.ejs") %>

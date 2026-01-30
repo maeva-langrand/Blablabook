@@ -1,0 +1,116 @@
+<%- include("partials/header.ejs") %>
+<main class="books_main">
+
+  <!-- Sidebar filters -->
+  <button class="books_filters_toggle primary" aria-expanded="false">
+    Filtres de recherche ⬍
+  </button>
+
+  <aside class="books_filters">
+    <h2>Filtres de recherche</h2>
+
+    <!-- Get form to change the view -->
+    <form method="GET" action="/livres">
+      <label for="author">Auteur (A–Z)</label>
+      <select id="author" name="authorId">
+        <option value="">Filtrer par auteur</option>
+        <% authors.forEach(author => { %>
+          <option value="<%= author.id %>"><%= author.last_name %> <%= author.first_name %></option>
+        <% }) %>
+      </select>
+
+      <label for="genre">Genre</label>
+      <select id="genre" name="genreId">
+        <option value="">Choisir un genre</option>
+        <% allGenres.forEach(genre => { %>
+          <option value="<%= genre.id %>"><%= genre.name %></option>
+        <% }) %>
+      </select>
+
+      <label for="year">Année</label>
+      
+      <input type="number" id="year" name="year" min="1500"  placeholder="Saisissez un nombre">
+
+      <button type="submit" class="primary">Valider</button>
+    </form>
+
+    <% if (lastConsultedBooks && lastConsultedBooks.length) { %>
+  <section class="books_last_books">
+    <h2>Consultés récemment</h2>
+
+    <ul>
+      <% lastConsultedBooks.forEach(book => { %>
+        <li><a href="/livre/<%= book.id %>"  title="<%= book.title %>">
+          <img src="<%= book.cover %>" alt="Couverture <%= book.title %>">
+          </a>
+        </li>
+      <% }) %>
+    </ul>
+  </section>
+<% } %>
+
+  </aside>
+
+  <section class="books_content">
+    <% if (isSearch) { %>
+      <!-- Filtered results view -->
+      <h2 class="books_section_title">Résultats</h2>
+    <a href="/livres" class="books_search_back secondary">← Retour</a>
+      <div class="books_book_grid">
+        <% books.forEach(book => { %>
+          <article class="books_book_card">
+                 <a href="/livre/<%= book.id %>" class="books_book_link">
+            <div class="books_book_cover">
+<% if (book.user_status === "to_read" || book.user_status === "read") { %>
+  <div class="book_sticker <%= book.user_status %>">
+    <%= book.user_status === "to_read" ? "À lire" : "Lu" %>
+  </div>
+<% } %>
+              <% if(book.cover) { %>
+                <img src="<%= book.cover %>" alt="Couverture <%= book.title %>">
+              <% } %>
+            </div>
+            <h3><%= book.title %></h3>
+            <p class="book_author"><%= book.book_author.map(a => a.first_name + ' ' + a.last_name).join(', ') %></p>
+            <p class="book_search_genre"><%= book.book_genre && book.book_genre.length > 0  ? book.book_genre.map(g => g.name).join(', ') : '—' %></p>
+            <p class=""><%= book.publication_date || '—' %></p>
+            </a>
+          </article>
+        <% }) %>
+      </div>
+    <% } else { %>
+
+
+      <!-- default page -->
+      <% genres.forEach(genre => { %>
+        <div>
+          <h2 class="books_section_title"><%= genre.name %></h2>
+          <div class="books_book_grid">
+            <% genre.genre_book.forEach(book => { %>
+              <article class="books_book_card">
+                            <a href="/livre/<%= book.id %>" class="books_book_link">
+                <div class="books_book_cover">
+<% if (book.user_status === "to_read" || book.user_status === "read") { %>
+  <div class="book_sticker <%= book.user_status %>">
+    <%= book.user_status === "to_read" ? "À lire" : "Lu" %>
+  </div>
+<% } %>
+                  <% if(book.cover) { %>
+                    <img src="<%= book.cover %>" alt="Couverture <%= book.title %>">
+                  <% } %>
+                </div>
+                <h3><%= book.title %></h3>
+                <p class="book_author"><%= book.book_author.map(a => a.first_name + ' ' + a.last_name).join(', ') %></p>
+                           <p><%= book.publication_date || '—' %></p>
+                           </a>
+              </article>
+            <% }) %>
+          </div>
+          <a class="book_more_link secondary" href="/livres?genreId=<%= genre.id %>">Voir plus du genre <%= genre.name %> →</a>
+        </div>
+      <% }) %>
+    <% } %>
+  </section>
+
+</main>
+<%- include("partials/footer.ejs") %>

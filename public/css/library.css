@@ -1,0 +1,390 @@
+.main_library 
+{ padding: 1rem; 
+}
+.library_title {
+text-align: center;
+padding: 1rem;
+margin-bottom: 1rem;
+font-size: 1.8rem;
+}
+
+/* Search bar */
+.library_search_bar {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 0;
+}
+
+
+.library_search_input {
+
+  width: 100%;
+  height: 2.5rem;
+  padding: 0 2.5rem 0 0.5rem;
+  border: none;
+  text-align: center;
+  border-radius: 0.3rem;
+  background-color: #445e7759;
+  color: var(--text-primary);
+  font-size: 1rem;
+}
+
+
+.library_search_button {
+  position: absolute;
+  top: 35%;
+  right: 0.5rem; 
+  height: 1.5rem;
+  width: 1.5rem;
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.library_search_button img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.library_search_button img:hover {
+transform: scaleX(1.04);}
+
+.books_book_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  z-index: 0;
+}
+
+.books_book_link.desktop-only {
+  display: none; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+
+/* Toggle buttons for lists */
+.library_toggle_button {
+  width: 100%;
+  text-align: left;
+  padding: 0.5rem;
+  background: var(--main-color);
+  color: var(--text-primary);
+  border: none;
+  border-radius: .2rem;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+  transition: transform 0.2s ease;
+}
+
+.library_toggle_button:hover {
+transform: none;
+  transform: translateY(-1px);
+}
+
+.library_clear_search {
+  position: absolute;
+  right: 2rem;
+  top: 0.6rem;
+  background: transparent;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  color: var(--text-primary);
+  display: none;
+}
+
+.library_clear_search:hover {
+  transform: scaleX(1.04);
+}
+
+.library_clear_search.active {
+  display: block;
+}
+
+
+/* Carousels */
+
+
+.library_content {
+  display: none;
+  margin: 1rem 0;
+}
+
+  .library_toggle_button {
+      text-align: center;
+  }
+
+.library_content button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+ background-color: var(--main-color);}
+
+.library_content.active {
+  display: block;
+  align-items: center;
+  text-align: center;
+}
+
+.carousel {
+  overflow: hidden;
+  width: 100%;
+}
+
+.carousel_track {
+  display: flex;
+  transition: transform 0.4s ease;
+}
+
+.book {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 100%;
+  padding: 1rem;
+}
+
+.books_book_card p {
+margin-bottom: 1rem;
+}
+
+.books_book_card h3 {
+  max-width: 11rem;
+    white-space: nowrap;    
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.carousel_btn {
+  display: inline-block;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.library_content {
+  display: none;
+opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.library_content.active {
+  display: flex;
+  flex-direction: row;
+  gap: .2rem;
+  opacity: 1;
+}
+
+.book_card {
+  position: relative;
+}
+
+
+.book_actions {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 5;
+}
+
+.books_book_link {
+  z-index: 1;
+
+}
+
+
+.book_actions button {
+  pointer-events: auto;
+}
+
+.book_add_toggle {
+  width: 3rem;
+  height: 3rem;
+  font-size: 2 rem;   
+  font-weight: bold;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--accent-color-1);
+  color: var(--text-primary);
+  border: none;
+  cursor: pointer;
+
+}
+
+.book_add_menu {
+  position: absolute;
+  top: 2.2rem;
+  right: 0;
+  background: var(--background);
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  list-style: none;
+  padding: 0.3rem;
+  margin: 0;
+  display: none;
+}
+
+
+.book_add_menu.open {
+  display: block;
+}
+
+.book_add_menu button {
+  width: 100%;
+  text-align: left;
+  white-space: nowrap;
+  color: var(--text-secondary);
+  background-color: var(--accent-color-1);
+  border: none;
+  border-radius: .25rem;
+  margin-top: .25rem;
+  padding: .5em;
+}
+
+.sticker {
+  display: none;
+}
+
+/* Desktop: more books in lists*/
+@media (min-width: 1100px) {
+
+  .library_list_section {
+    position: relative;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  }
+
+  .library_sections_container {
+    display: flex;
+    gap: 1rem; 
+    align-items: flex-start;
+  }
+
+  .library_content {
+    display: none; 
+    flex-direction: column; 
+    gap: 1rem;
+  }
+
+  .library_content_active {
+    display: flex
+  }
+  .carousel {
+    width: 100%;
+    overflow: visible;
+  }
+
+
+    .library_default_open {
+    display: block;
+  }
+
+
+  .library_to_read_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 1rem;
+    
+  }
+  
+
+
+  .carousel_track {
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: center;
+    gap: 1rem;
+    transform: none !important; /* cancel JS */
+    margin: 1rem;
+  }
+
+  .book {
+  gap: 0.5rem;
+  flex: 1 1 calc(40% - 1rem);
+  max-width: calc(40% - 1rem);
+  background-color: var(--second-color);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+  }
+
+  .books_book_card {
+  display: block;
+}
+
+.book_cover_wrapper {
+  width: 100%;      
+  height: 15rem;    
+  overflow: hidden; 
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+
+.book_cover_wrapper img.book_cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: center; 
+  display: block;
+}
+
+.library_content > .carousel_btn {
+  display: none;
+}
+
+    .books_book_link.desktop-only {
+    display: block;
+  }
+
+  .see-link {
+    display: none;
+  }
+
+  .book_actions {
+    z-index: 9999;
+    isolation: isolate;
+}
+
+.sticker {
+  display: block;
+  position: relative;
+  top: -15rem;
+  width: 5rem;
+  font-weight: bold;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.3rem;
+  font-size: 0.75rem;
+  z-index: 99;
+  pointer-events: none;
+
+}
+
+.sticker.toread {
+    background-color: #113f94;
+  color: var(--text-secondary);
+}
+
+.sticker.read {
+    background-color: #1a791a;
+  color: var(--text-secondary);
+}
+}

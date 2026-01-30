@@ -1,0 +1,30 @@
+<%- include("partials/header.ejs", { needsPasswordValidation: true }) %>
+
+<% if (typeof success !== 'undefined' && success) { %>
+  <div class="success_auth_message">
+    <%= success %>
+  </div>
+<% } %>
+
+<% if (typeof error !== 'undefined' && error) { %>
+  <div class="error_auth_message">
+    <%= error %>
+  </div>
+<% } %>
+
+<script>
+  // Récupère le type de formulaire du serveur ('login' ou 'register')
+  // pour afficher l'erreur sur la bonne vue via JavaScript
+  window.formType = "<%= typeof type !== 'undefined' ? type : 'login' %>";
+</script>
+
+  <!-- Connexion -->
+  <%- include('partials/auth.ejs', { type: 'login', error: typeof error !== 'undefined' ? error : null, username: typeof username !== 'undefined' ? username : '' }) %>
+  
+  <!-- Inscription -->
+  <%- include('partials/auth.ejs', { type: 'register', error: typeof error !== 'undefined' ? error : null, username: typeof username !== 'undefined' ? username : '', email: typeof email !== 'undefined' ? email : '' }) %>
+  
+<!-- Ajout du script de validation du mot de passe pour l'inscription -->
+<script src="/js/password-validation.js" defer></script> 
+
+<%- include("partials/footer.ejs") %>

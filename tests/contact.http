@@ -1,0 +1,23 @@
+@baseUrl = http://localhost:3000
+
+### Test GET contact page
+GET {{baseUrl}}/contact
+
+### Test POST contact (succès - formulaire)
+POST {{baseUrl}}/contact
+Content-Type: application/x-www-form-urlencoded
+
+name=Jean%20Dupont&email=jean.dupont%40example.com&message=Un%20message%20de%20plus%20de%2020%20caracteres
+
+### Test POST contact (erreur email - formulaire)
+POST {{baseUrl}}/contact
+Content-Type: application/x-www-form-urlencoded
+
+name=Jean&email=foo&message=Un%20message%20valide%20pour%20tester
+
+### Test POST contact (erreur longueur message - formulaire)
+POST {{baseUrl}}/contact
+Content-Type: application/x-www-form-urlencoded
+
+name=Jean&email=jean.dupont%40example.com&message=Trop%20court
+
