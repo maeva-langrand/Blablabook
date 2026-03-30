@@ -180,6 +180,69 @@
     "description": "Pour mieux comprendre les phénomènes paranormaux et les capacités insoupçonnées de l'être humain, propose des définitions du monde des pouvoirs secrets à travers des faits vécus, ainsi que des formules magiques qui ont fait leur preuve et que les jeunes pourront mettre en application dans leur vie quotidienne."
   },
   {
+    "key": "/books/OL40221832M",
+    "title": "Le livre de la magie",
+    "author": "Pasqual Romano",
+    "genre": "Magie",
+    "year": 2001,
+    "cover_url": "https://covers.openlibrary.org/b/id/12978797-L.jpg",
+    "description": "A comme apparition, B baguette magique, C comme cartes, D comme double-fond, E comme énigme, F comme fantastique ... L'alphabet n'a pas assez de lettres pour recenser toutes les possibilités qu'offre la magie. Plus de 100 tours pour découvrir la magie de A à Z et les secrets inédits d'un professionnel. Fabriquer son costume et ses accessoires, lire dans les pensées des spectateurs, faire disparaître des objets et même un complice ... Avec des explications claires, des patrons et plein d'illustrations, tous les enfants peuvent devenir magiciens!"
+  },
+  {
+    "key": "/books/OL32123045M",
+    "title": "Magie noire au collège",
+    "author": "Christine Aubrée",
+    "genre": "Magie",
+    "year": 1997,
+    "cover_url": "https://covers.openlibrary.org/b/id/10783973-L.jpg",
+    "description": "Littérature jeunesse\n\nDécidement, quelque chose ne tourne pas rond au collège : Lucie a des boutons bleus, Louise des ongles immenses... et voilà Héloïse transformée en crapaud ! Basile, son frère, n'en revient pas. Avec quelques amis, il décide de mener l'enquête : il faut sortir Héloïse de ce mauvais pas. Gober les mouches, c'est fatigant, CÔAAA ! (Payot.ch)"
+  },
+  {
+    "key": "/books/OL31955580M",
+    "title": "La magie des alphines",
+    "author": "Céline Côté",
+    "genre": "Magie",
+    "year": 2002,
+    "cover_url": "https://covers.openlibrary.org/b/id/10635708-L.jpg",
+    "description": "Collection des histoires de Mona, une singulière marmotte affublée de lunettes porte-crayons qui, sous l'effet de plantes magiques cueillies dans le \"jardin des alphines\" trouve son inspiration pour écrire contes et comptines. -- Des textes à saveur didactique et aux accents psychédéliques sur le thème des lettres de l'alphabet. Dans ce numéro : les voyelles. Lecteurs débutants. [SDM]."
+  },
+  {
+    "key": "/books/OL32114423M",
+    "title": "La magie du maquillage",
+    "author": "Hélène Boucher",
+    "genre": "Magie",
+    "year": 1989,
+    "cover_url": "https://covers.openlibrary.org/b/id/10774554-L.jpg",
+    "description": "Quelques conseils pratiques sur l'art du maquillage et seize réalisations décortiquées par étapes. La réussite exige une certaine dextérité. Cet album sera une source d'inspiration pour les enfants et une solution pour les parents."
+  },
+  {
+    "key": "/books/OL35366737M",
+    "title": "Amour, magie et sorcellerie",
+    "author": "Gudule",
+    "genre": "Magie",
+    "year": 2006,
+    "cover_url": "https://covers.openlibrary.org/b/id/12209184-L.jpg",
+    "description": "Roman d'amour. Roman fantastique."
+  },
+  {
+    "key": "/books/OL29551914M",
+    "title": "100 % tours de magie",
+    "author": "Sophie de Mullenheim",
+    "genre": "Magie",
+    "year": 2005,
+    "cover_url": "https://covers.openlibrary.org/b/id/10397409-L.jpg",
+    "description": "Propose des tours de magie ainsi que des conseils et des séances de bricolages magiques."
+  },
+  {
+    "key": "/books/OL37070722M",
+    "title": "Tours de magie amusants",
+    "author": "Pasqual Romano",
+    "genre": "Magie",
+    "year": 2002,
+    "cover_url": "https://covers.openlibrary.org/b/id/12641075-L.jpg",
+    "description": "Veux-tu devenir un vrai magicien et épater tes amis et ta famille avec des tours plus surprenants les uns que les autres? Dans ce cas, ce livre est fait pour toi! Il contient 100 trucs originaux qui laisseront pantois tes spectateurs. Tous les tours sont expliqués étape par étape et clairement illustrés. Avec un peu de pratique, les passes magiques n'auront bientôt plus aucun secret pour toi!"
+  },
+  {
     "key": "/books/OL28428960M",
     "title": "L'argent des autres",
     "author": "Émile Gaboriau",
@@ -252,6 +315,15 @@
     "description": "Roman policier teinté de fantastique qui tourne autour du meurtre d'une veille dame. [SDM]."
   },
   {
+    "key": "/books/OL42936076M",
+    "title": "Sótt",
+    "author": "Ragnar Jónasson",
+    "genre": "Policier",
+    "year": 2012,
+    "cover_url": "https://covers.openlibrary.org/b/id/15117103-L.jpg",
+    "description": "Une épidémie s'abat sur Siglufjördur. La ville est mise en quarantaine. Les premières victimes succombent, les médias s'emparent du sujet : c'est la panique. L'inspecteur Ari Thór est pris par un terrible sentiment de claustrophobie. Lorsqu'un cold case vieux de cinquante ans refait surface, il saisit l'occasion pour échapper à cette atmosphère oppressante. Mais le huis clos se referme sur ce petit village du grand nord de l'Islande."
+  },
+  {
     "key": "/books/OL38210319M",
     "title": "Droit pénal général et pouvoirs policiers",
     "author": "Maurice Gabias",
@@ -297,15 +369,6 @@
     "description": "Une enquête de l'ex-inspecteur de Scotland Yard, Thomas Corcoran, dans le sud-ouest de la France."
   },
   {
-    "key": "/books/OL42936076M",
-    "title": "Sótt",
-    "author": "Ragnar Jónasson",
-    "genre": "Policier",
-    "year": 2012,
-    "cover_url": "https://covers.openlibrary.org/b/id/15117103-L.jpg",
-    "description": "Une épidémie s'abat sur Siglufjördur. La ville est mise en quarantaine. Les premières victimes succombent, les médias s'emparent du sujet : c'est la panique. L'inspecteur Ari Thór est pris par un terrible sentiment de claustrophobie. Lorsqu'un cold case vieux de cinquante ans refait surface, il saisit l'occasion pour échapper à cette atmosphère oppressante. Mais le huis clos se referme sur ce petit village du grand nord de l'Islande."
-  },
-  {
     "key": "/books/OL32381030M",
     "title": "Péchés capitaux",
     "author": "Harrison, Jim écrivain)",
@@ -340,15 +403,6 @@
     "year": 2002,
     "cover_url": "https://covers.openlibrary.org/b/id/4301185-L.jpg",
     "description": "Cet ouvrage propose une analyse-enquête sur les représentations du féminin et du masculin dans les romans policiers de Driss Chraïbi. Cette incursion du grand romancier marocain et défenseur des femmes dans un genre populaire riche en clichés machistes n'est sans doute pas innocente. Elle permet d'examiner les mythes et les idéaux arabo-musulmans traditionnels dans les nombreux stéréotypes de comportements féminins et masculins esquissés par Chraïbi."
-  },
-  {
-    "key": "/books/OL45350078M",
-    "title": "Le genre policier dans tous ses états",
-    "author": "Marc Lits",
-    "genre": "Policier",
-    "year": 2011,
-    "cover_url": "https://covers.openlibrary.org/b/id/14616783-L.jpg",
-    "description": "\"Cet ouvrage reprend une série d'articles publiés depuis une vingtaine d'années par Marc Lits autour du genre policier. Tous ces articles ont été remaniés et actualisés, pour proposer un état des lieux clair et cohérent des transformations du policier depuis 150 ans, et montrer ses innombrables transformations à travers les formes et les supports de la culture médiatique contemporaine. Il replace l'histoire du genre policier dans ses différents avatars en repartant d'une définition du roman d'énigme, pour montrer les raisons qui ont amené le modèle canonique à se transformer en différents sous-genres. Il n'y a pas de roman policier, il y a plutôt une variété de catégories, de l'énigme classique jusqu'au polar ou au roman noir. Il est donc utile de clarifier les définitions et les limites d'un objet oedipien à plus d'un titre. En outre, le genre policier est sans cesse confronté à la tentation du littéraire et à la confrontation avec le réel. \n\nEntre ces deux tensions, il a souvent du mal à trouver sa place, d'autant plus qu'il doit aussi, désormais, se situer par rapport aux fictions policières cinématographiques et télévisuelles. Ce n'est pas seulement la forme qui évolue, ce sont aussi les supports qui la véhiculent. C'est ainsi que la comparaison du récit policier avec la nouvelle ou avec le fait divers permet aussi de définir les limites du genre. Le cadre .ainsi délimité, il n'est pas inutile de revenir à quelques figures fondatrices : des auteurs marquants comme Simenon, Véry, Steeman ou Malet, des héros emblématiques comme Arsène Lupin ou Nestor Burma. Mais au-delà de l'analyse textuelle, ce volume propose une analyse des fictions criminelles audiovisuelles. \n\nLa question n'est pas neuve, puisque Simenon a longtemps voulu s'occuper des adaptations de ses films, mais aujourd'hui la matrice policière inspire sans discontinuer l'audiovisuel, au cinéma, en télévision, dans les fictions, mais aussi dans les reality shows. La structure policière est tellement porteuse de rebondissements, de suspense, qu'elle irradie tous les genres audiovisuels, y compris dans les magazines d'information. Cela prouve que le genre policier se réinvente tous les jours, et que sa formule ne cesse d'irriguer les productions médiatiques les plus diverses.\"--Page 4 of cover."
   },
   {
     "key": "/books/OL31891804M",
@@ -616,7 +670,7 @@
     "title": "Harry Potter à l'école des sorciers",
     "author": "J. K. Rowling",
     "genre": "Jeune adulte",
-    "year": 1900,
+    "year": 1997,
     "cover_url": "https://covers.openlibrary.org/b/id/7882746-L.jpg",
     "description": "Le jour de ses onze ans, la vie de Harry Potter est bouleversée à jamais quand Rubeus Hagrid, un géant aux yeux brillants comme des scarabées, lui apporte une lettre ainsi que d'incroyables nouvelles. Harry Potter n'est pas un garçon comme les autres: c'est un sorcier. Et une aventure extraordinaire est sur le point de commencer.\r\nSource: http://www.gallimard.fr/Catalogue/GALLIMARD-JEUNESSE/Albums-Junior/Harry-Potter-a-l-ecole-des-sorciers"
   },
@@ -657,24 +711,6 @@
     "description": "Ce rapport livre un diagnostic sur la situation contrastée des jeunes en temps de crise. Les moins diplômés sont les plus fragilisés et leur mise à l'écart du marché du travail les expose au risque d'exclusion. Les jeunes diplômés, quant à eux, connaissent une dégradation relative de la qualité de l'emploi. Une analyse approfondie des inégalités intragénérationnelles est également proposée.--[Memento]."
   },
   {
-    "key": "/books/OL32700727M",
-    "title": "Au secours, Scarlett",
-    "author": "Maureen Johnson",
-    "genre": "Jeune adulte",
-    "year": 2010,
-    "cover_url": "https://covers.openlibrary.org/b/id/11325438-L.jpg",
-    "description": "Roman familial. Roman d'humour."
-  },
-  {
-    "key": "/books/OL39491809M",
-    "title": "Multiversum",
-    "author": "Leonardo Patrignani",
-    "genre": "Jeune adulte",
-    "year": 2012,
-    "cover_url": "https://covers.openlibrary.org/b/id/12901624-L.jpg",
-    "description": "Alex vit en Italie, Jenny en Australie. Ils ne se sont jamais vus pourtant ils se connaissent depuis toujours, unis par un lien télépathique très fort. Le jour où ils cherchent à se rencontrer, ils découvrent qu'il existe une infinité d'univers parallèles et que la réalité qui les entoure n'est qu'une de ces multiples dimensions. Parviendront-ils à se rejoindre tandis que leur destin semble lié à celui, inéluctable, de la Terre? Existe-t-il un monde où vivre leur amour?\n\nLittérature jeunesse : roman fantastique\n\nRoman d'amour. Roman fantastique"
-  },
-  {
     "key": "/books/OL2254023M",
     "title": "Anthologie de la science-fiction québécoise contemporaine",
     "author": "Michel Lord",
@@ -682,6 +718,15 @@
     "year": 1988,
     "cover_url": "https://covers.openlibrary.org/b/id/2186518-L.jpg",
     "description": "L'auteur, qui a choisi presque uniquement des textes des années 1980, note la quasi-impossibilité d'inclure des parties de roman dans une anthologie (d'où l'absence d'Agnès Guitard). Classement thématique: Les Terres du futur ou hypothétiques - Les autres planètes et les voyages dans l'espace - Les autres formes de vie ou de réalité vivante (cybernétique, génétique et vie extra-terrestre). Vingt auteurs représentés: Michel Lord, Jacques Brossard, L.-P. Hébert, Elisabeth Vonarburg, etc. Notices biobibliographiques. Préface, p. 9-25, proposant, outre des considérations théoriques, une petite histoire de la science-fiction au Québec."
+  },
+  {
+    "key": "/books/OL453748M",
+    "title": "La science-fiction française",
+    "author": "Anita Torres",
+    "genre": "Science-fiction",
+    "year": 1997,
+    "cover_url": "https://covers.openlibrary.org/b/id/2167309-L.jpg",
+    "description": "La Science-Fiction serait-elle un \" mauvais genre littéraire \", un genre \" mineur \" ? Une littérature populaire ou de masse destinée à un public adolescent ? La critique littéraire la regarde-t-elle avec dédain? La Science-Fiction serait-elle l'héritière de Jules Verne et du merveilleux scientifique ou une version francophone importée des Etats-Unis ? Le sociologue peut proposer par une enquête de terrain auprès des différentes composantes du genre - amateurs, auteurs, environnement éditorial- croisée avec des enquêtes statistiques concernant les lecteurs, des réponses à ces questions."
   },
   {
     "key": "/books/OL27023321M",
@@ -756,6 +801,15 @@
     "description": "1 v. (387 p.) ; 21 cm"
   },
   {
+    "key": "/books/OL792482M",
+    "title": "Romance writings",
+    "author": "Montagu, Mary Wortley Lady",
+    "genre": "Romance",
+    "year": 1996,
+    "cover_url": "https://covers.openlibrary.org/b/id/129092-L.jpg",
+    "description": "Lady Mary Wortley Montagu (1689-1762) is one of the most important women writers between Aphra Behn and Jane Austen, and one of her period's most provocative and entertaining writers of either sex. The narratives in this volume, with the exception of one juvenile piece, have never been printed before. They show the author experimenting in the genres of fiction and autobiography, more influenced by French models than by English, but always working experimentally against the grain of her various traditions.\n\nBesides page-turning narrative, these works offer the rare opportunity of a completely fresh taken on literary movements, cross-cultural relations, gender ideologies, and other literary debates of the early eighteenth century. Our existing picture of what was once possible in literature and what was possible for women at this time cannot remain unchanged once these writings appear."
+  },
+  {
     "key": "/books/OL32769985M",
     "title": "Sexe, romance et best-sellers",
     "author": "Nina Killham",
@@ -763,24 +817,6 @@
     "year": 2006,
     "cover_url": "https://covers.openlibrary.org/b/id/11399029-L.jpg",
     "description": "Auteur à succès de romans à l'eau de rose sous le nom de Céleste d'Arcy, Jack Carter est un romantique qui entend se réserver pour le grand amour et vit seul avec ses personnages. Sa soeur lui demande d'héberger Molly, une amie déjantée aux moeurs débridées."
-  },
-  {
-    "key": "/books/OL42672791M",
-    "title": "Spirale Infernale",
-    "author": "RJ Scott",
-    "genre": "Romance",
-    "year": 2017,
-    "cover_url": "https://covers.openlibrary.org/b/id/15120570-L.jpg",
-    "description": "La passion d’un homme, les mensonges d’un autre. L’amour pourra-t-il même réparer le plus sombre des cœurs ?\r\n\r\nTrent Hanson est un phénomène du patinage artistique, adoré par des millions de personnes à travers le monde. Toute sa vie a été consacrée au sport qu’il aime, alors même que ledit sport – et sa propre famille – lui tourne le dos. Depuis la patinoire d’entraînement jusqu’aux Jeux Olympiques et au salon de ses parents, Trent se bat contre les intimidateurs et les homophobes pour devenir l’homme gay et fier qu’il est. Toutefois, les combats incessants le laissent fatigué, solitaire et nerveux. Ses craintes devront être mises de côté lorsqu’il est embauché pour passer l’été à travailler avec l’équipe de hockey sur glace des Harrisburg Railers. Qui aurait pu deviner que l’homme à qui le destin a décidé de le jumeler n’est autre que Dieter Lehmann, autoproclamé dieu du sexe, un homme qui semble avoir tout à prouver, sans oublier de mentionner qu’il ne se soucie pas de savoir qui il blesse pour parvenir à ses fins.\r\n\r\nDieter a passé bien trop d’années à croupir dans les ligues mineures et a une addiction secrète aux médicaments, ce qui signifie que sa carrière se retrouve prise dans une spirale infernale. Son ex le fait chanter et il est sur le point de renoncer à tout cela. Cependant, quand il est appelé en renfort lors d’un match pour la Coupe Stanley, il doit dissimuler ses blessures, obtient un avant-goût de ce que c’est de jouer dans la LNH et il réalise qu’une place sur la liste des remplaçants des Railers est ce qu’il désire avant tout. Bien plus que d’écouter son cœur, que d’avoir à se soucier de ce patineur artistique exaspérant qui s’immisce sous sa peau. Lorsqu’il franchit les limites pour obtenir ce qu’il veut, il comprend qu’il s’est égaré. Il doit changer, mais n’est-il pas déjà trop tard pour sa carrière et ses chances de pouvoir aimer ?"
-  },
-  {
-    "key": "/books/OL32346109M",
-    "title": "Chronique des jours à venir",
-    "author": "Ronald Wright",
-    "genre": "Romance",
-    "year": 2007,
-    "cover_url": "https://covers.openlibrary.org/b/id/10970203-L.jpg",
-    "description": "En 1999, David Lambert, archéologue, s'apprête à remonter le temps dans la machine de H.G. Wells et se retrouve un demi-millénaire plus tard dans un monde dépeuplé où toute civilisation est détruite. Utilisant les méthodes d'investigation archéologique, il va tenter de comprendre l'origine de cette catastrophe et partir à la recherche d'éventuels survivants."
   },
   {
     "key": "/books/OL16218706M",
@@ -898,114 +934,6 @@
     "year": 2004,
     "cover_url": "https://covers.openlibrary.org/b/id/11430780-L.jpg",
     "description": "Pour la première fois depuis la mort de son grand-père, Alice revient chez sa grand-mère qu'elle surnomme Manga. Mais dès son arrivée, elle réalise que Manga a changé : elle a arrêté la peinture, sa passion, et se comporte bizarrement."
-  },
-  {
-    "key": "/books/OL32346363M",
-    "title": "Le mystère du trésor disparu",
-    "author": "Elisabetta Dami",
-    "genre": "Mystère",
-    "year": 2000,
-    "cover_url": "https://covers.openlibrary.org/b/id/10970797-L.jpg",
-    "description": "Un galion, un trésor, des pirates ! Ah, quelle aventure incroyable dans les mers tropicales ! Tout a commencé quand j'ai reçu une lettre, parfumée à la lavande, de ma tante Toupie.."
-  },
-  {
-    "key": "/books/OL33039462M",
-    "title": "Une odeur de mystère",
-    "author": "Bénédicte Froissart",
-    "genre": "Mystère",
-    "year": 1994,
-    "cover_url": "https://covers.openlibrary.org/b/id/11735178-L.jpg",
-    "description": "Camille passe, une fois de plus, ses vacances chez sa grand-mère. Mais quelque chose a changé : une nouvelle odeur dans la chambre de bain, des chuchotements ... un vieux monsieur accordeur de piano ... Une trame simple, prévisible, exploitée avec réalisme et sensibilité."
-  },
-  {
-    "key": "/books/OL37841704M",
-    "title": "La société du mystère",
-    "author": "Dominique Fernandez",
-    "genre": "Mystère",
-    "year": 2017,
-    "cover_url": "https://covers.openlibrary.org/b/id/14487615-L.jpg",
-    "description": "596 pages ; 23 cm"
-  },
-  {
-    "key": "/books/OL39198737M",
-    "title": "Le mystère des dieux",
-    "author": "Bernard Werber",
-    "genre": "Mystère",
-    "year": 2009,
-    "cover_url": "https://covers.openlibrary.org/b/id/12829529-L.jpg",
-    "description": "Après avoir rencontrer Zeus au sommet de la montagne d'Aeden, Michael Pinson retrouve sa classe d'élèves dieux pour la partie finale. Ayant échoué à cet examen, il commet l'irréparable : tuer un autre élève dieu. Condamné, il va connaître les affres d'une vie mortelle avec les perspectives qu'offre le savoir divin. Cependant, sur la Terre 18, il rencontre le grand amour."
-  },
-  {
-    "key": "/books/OL29479359M",
-    "title": "Mystères et vieux matous",
-    "author": "Danièle Desrosiers",
-    "genre": "Mystère",
-    "year": 1991,
-    "cover_url": "https://covers.openlibrary.org/b/id/10392378-L.jpg",
-    "description": "Philippe et Marie-Hélène ouvre leur agence de détectives. Ils sont rapidement sur une affaire. A cette enquête s'ajoute la rivalité de M.-H. et Mélanie. Un roman vivant, rédigé dans un style alerte et direct."
-  },
-  {
-    "key": "/books/OL32356221M",
-    "title": "Le mystère Jessica",
-    "author": "Michel Amelin",
-    "genre": "Mystère",
-    "year": 2003,
-    "cover_url": "https://covers.openlibrary.org/b/id/10992837-L.jpg",
-    "description": "Jessica, élève dilettante de quatrième, n'est pas une passionnée de littérature. Elle est beaucoup plus intéressée par le beau Kevin, grand dévoreur de livres. Pour l'approcher, elle décide donc de participer à un atelier d'écriture, pendant les vacances."
-  },
-  {
-    "key": "/books/OL46835290M",
-    "title": "Nouveaux Mystères et Aventures",
-    "author": "Arthur Conan Doyle",
-    "genre": "Mystère",
-    "year": 2004,
-    "cover_url": "https://covers.openlibrary.org/b/id/13324905-L.jpg",
-    "description": "Notre Dame de la Mort -- \r\nLes os -- \r\nLe mystère de la vallée de Sasassa -- \r\nNotre cagnotte du Derby -- \r\nLe récit de l'Américain."
-  },
-  {
-    "key": "/books/OL31952949M",
-    "title": "Le mystère de la chambre 7",
-    "author": "Hélène Gagnier",
-    "genre": "Mystère",
-    "year": 1996,
-    "cover_url": "https://covers.openlibrary.org/b/id/10633595-L.jpg",
-    "description": "Les parents de Marie se sont trouvés du travail dans une résidence privée. Cette maison cache un drame, un secret que Marie élucide. Un suspense bien mené par un petit personnage sympathique."
-  },
-  {
-    "key": "/books/OL32517788M",
-    "title": "Le mystère Velázquez",
-    "author": "Eliacer Cansino",
-    "genre": "Mystère",
-    "year": 2015,
-    "cover_url": "https://covers.openlibrary.org/b/id/11169119-L.jpg",
-    "description": "Nicolás paraît être né sous une mauvaise étoile. Sa mère meurt en le mettant au monde, et Nicolás est nain, pour la plus grande honte de son père, qui le vend à la cour d'Espagne. Il n'a que sept ans quand il arrive à Madrid, seul, malheureux et vulnérable. Mais Nicolás ignore qu'il va devenir un personnage respecté de la cour et le confident de l'immense peintre Diego Velázquez... [babelio.com]"
-  },
-  {
-    "key": "/books/OL32127953M",
-    "title": "Mystère à Illumis",
-    "author": "Natacha Godeau",
-    "genre": "Mystère",
-    "year": 2014,
-    "cover_url": "https://covers.openlibrary.org/b/id/10789819-L.jpg",
-    "description": "Sacha est de retour à Illumis, accompagné de ses nouveaux amis Lem et Clem, ainsi que de Serena, qui a décidé de devenir Dresseur Pokémon, elle aussi ! La jeune fille est impatiente de visiter la ville. Pourtant, elle est très loin d'imaginer l'étonnant secret qu'ils vont y découvrir... [4e de couv.]"
-  },
-  {
-    "key": "/books/OL32127957M",
-    "title": "Mystère et crapaudaille",
-    "author": "Yves Hughes",
-    "genre": "Mystère",
-    "year": 2003,
-    "cover_url": "https://covers.openlibrary.org/b/id/10789824-L.jpg",
-    "description": "Une nouvelle aventure du jeune valet Millefeuille accompagné de son cheval Petit-Pet qui doit affronter la sorcière Feltinelle, cette dernière ayant transformer son maître, Hugues de Flérimont, en crapaud."
-  },
-  {
-    "key": "/books/OL32117670M",
-    "title": "Le Mystère Isolde",
-    "author": "Philippa Gregory",
-    "genre": "Mystère",
-    "year": 2013,
-    "cover_url": "https://covers.openlibrary.org/b/id/13190168-L.jpg",
-    "description": "1453. Il se passe des choses étranges dans un couvent proche de Rome. Les sœurs semblent frappées de folie. Isolde, la jeune et belle abbesse, est accusée d'hérésie et risque le bûcher! Luca Vero, un novice, est envoyé par le pape en mission secrète pour enquêter. Il a 17 ans, il est brillant, séduisant, il n'a pas les yeux dans sa poche. Et le charme de la belle Isolde ne le laisse pas indifférent... Saura-t-il surmonter les peurs et les superstitions? Pourra-t-il sauver Isolde?\r\n\r\nRoman historique. Roman policier\r\n\r\nLittérature jeunesse"
   },
   {
     "key": "/books/OL37865168M",
@@ -1224,6 +1152,15 @@
     "description": "Les Services de Tourisme Michelin vous présentent leur guide Vert BELGIQUE - Grand-Duché de LUXEMBOURG.\r\n\r\nConçu pour enrichir vos vacances ou vos moments de loisir, ce guide décrit les beaux monuments, les œuvres d'art, les sites pittoresques. Pour faciliter vote voyage, il est inséparable des autres publications Michelin : cartes et guide Rouge Benelux (hôtels et restaurants). Cette édition tient compte des conditions actuelles du tourisme. Mais l'évolution permanente des aménagements et les variations du coût de la vie peuvent rendre périmés certains renseignements pratiques. Nos lecteurs sauront le comprendre."
   },
   {
+    "key": "/books/OL37786215M",
+    "title": "Historiquement incorrect",
+    "author": "Jean Sévillia",
+    "genre": "Historique",
+    "year": 2011,
+    "cover_url": "https://covers.openlibrary.org/b/id/12690368-L.jpg",
+    "description": "\"En France, plus que jamais, le passé s'invite dans le débat d'idées, mais sur le mode polémique. Qu'il s'agisse de définir l'identité nationale ou de s'interroger sur la place de la religion dans la société, que la controverse porte sur l'héritage de l'Occupation ou sur les séquelles de la décolonisation, qu'il soit question de la réforme des programmes d'histoire à l'école ou de la création d'une Maison de l'histoire de France, tout est matière à dispute. Mais la discussion est biaisée au départ, car les préjugés idéologiques, les tabous du moment et les intérêts partisans interfèrent dans le débat. En dix chapitres, en voici autant de grands exemples. Quelle a été vraiment la part des Arabes dans la transmission du savoir antique au Moyen Age ? L'Eglise a-t-elle fait obstacle à la science ? A qui a profité la colonisation ? La Première et la Deuxième Guerre mondiale ont-elles été menées au nom des droits de l'homme ? Quel rôle l'immigration a-t-elle joué dans la construction de la France ? Quelle est la place de l'islam dans notre histoire nationale ? Avec la même liberté de ton et la sûreté d'information qui avaient contribué à l'exceptionnel succès éditorial d'Historiquement correct, Jean Sévillia sort des chemins balisés par le politiquement correct.\""
+  },
+  {
     "key": "/books/OL26458226M",
     "title": "L’Empereur de toutes les maladies",
     "author": "Siddhartha Mukherjee",
@@ -1294,6 +1231,15 @@
     "year": 2013,
     "cover_url": "https://covers.openlibrary.org/b/id/12152548-L.jpg",
     "description": "\"Marseille as-tu une âme? A force de la chercher en vain, j'avais fi ni par en douter. Et puis un soir de balade, j'ai compris: comme un vieux truand en cavale, la ville se planque dans un quartier reculé et sans histoire. Sous couvert de banlieue résidentielle, Saint-Marcel dissimule un oppidum vieux de vingt-six siècles, un château fort médiéval, la bastide de la plus grande famille provençale, un couvent marqué par une tragédie, une pagode vietnamienne, une chapelle mystérieuse, les ruines de la plus grande usine de l'âge d'or industriel marseillais, des cités à problèmes et le centre d'entraînement de l'Olympique de Marseille. Perché au sommet d'une butte, depuis les murs du vieil oppidum, je contemple la plus vieille ville de France, qui s'étale devant mes yeux. Et mon regard ne voyage pas dans l'espace, mais dans le temps. Petit à petit, poussée par le mistral, les orages, le soleil, Marseille va se dévoiler, chuchoter son histoire et révéler son mystère et son identité\"--Page 4 of cover."
+  },
+  {
+    "key": "/books/OL32812123M",
+    "title": "Michael Douglas",
+    "author": "Alan Lawson",
+    "genre": "Biographie",
+    "year": 1993,
+    "cover_url": "https://covers.openlibrary.org/b/id/11444954-L.jpg",
+    "description": "Portrait du fils aîné de Kirk Douglas. Récit de sa carrière, de ses débuts jusqu'à son plus récent succès: ##Basic instinct##."
   },
   {
     "key": "/books/OL14034021M",

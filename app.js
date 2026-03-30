@@ -31,6 +31,8 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
+/*  sessions sécurisées ( faire confiance au premier proxy ) */
+app.set("trust proxy", 1);
 
 /*Session cookies*/
 app.use(session({

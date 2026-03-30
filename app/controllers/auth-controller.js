@@ -30,6 +30,7 @@ export async function registerUser(req, res) {
     try {
         const { username, email, password } = req.validatedData;
 
+        console.log("je suis passé ici")
         // Vérifier si l'utilisateur ou l'email existe déjà
         const existingUser = await User.findOne({ 
             where: { 
@@ -60,9 +61,9 @@ export async function registerUser(req, res) {
             password: hashedPassword
         });
 
-/*         console.log("Utilisateur ajouté !");
-        console.log("Nom:", username);
-        console.log("Email:", email); */
+        console.log("Utilisateur ajouté !");
+        console.log("Nom:");
+        console.log("Email:");
 
         // Connecter automatiquement l'utilisateur
         req.session.user = {
@@ -89,6 +90,8 @@ export async function registerUser(req, res) {
 export async function login(req, res) {
     try {
         const { username, password } = req.validatedData;
+
+        console.log(" Tentative de connexion");
 
         const searchUser = await User.findOne({ where: { username } });
 
@@ -119,8 +122,9 @@ export async function login(req, res) {
             username: searchUser.username,
             email: searchUser.email
         };
-
+        console.log (process.env.NODE_ENV);
         console.log("Connexion réussie !");
+        console.log("après connexion réussie")
         return res.status(StatusCodes.OK).redirect("/");
     } catch (error) {
         console.error(error);
