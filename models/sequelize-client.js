@@ -1,7 +1,7 @@
 import "dotenv/config";
 import { Sequelize } from "sequelize";
 
-export const sequelize = new Sequelize(
+/*export const sequelize = new Sequelize(
   process.env.DB_URL,
   {
     logging: false, // ne pas afficher les requete sql en console
@@ -20,3 +20,22 @@ export const sequelize = new Sequelize(
  } catch (error) {
   console.error("Unable to connect to the database:", error);
  } */
+
+  export const sequelize = new Sequelize(
+  process.env.DB_URL,
+  {
+    logging: false,
+    dialectOptions: {
+      ssl: process.env.NODE_ENV === "production" ? {
+        require: true,
+        rejectUnauthorized: false
+      } : false
+    },
+    define: {
+      timestamps: true,
+      underscored: true,
+      createdAt: "created_at",
+      updatedAt: "updated_at"
+    }
+  }
+);
