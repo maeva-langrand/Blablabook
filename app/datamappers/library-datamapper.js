@@ -23,9 +23,11 @@ export const libraryDatamapper = {
     const user = await User.findByPk(userId, {
       include: [
         {
-          model: Book,
-          as: "user_book", 
-          through: { attributes: ["status"] }, 
+     model: Book,
+        as: "user_book",
+        through: { 
+          attributes: ["status"],
+          where: { status: ["to_read", "read"] }},
           include: [
             { model: Author, as: "book_author", through: { attributes: [] } }
           ]
@@ -37,7 +39,7 @@ export const libraryDatamapper = {
 
     return (user.user_book || []).map(b => ({
       ...b.get({ plain: true }),
-      status: b.UserBook?.status || "to_read"
+      status: b.UserBook?.status
     }));
   }
 

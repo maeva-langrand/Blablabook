@@ -98,13 +98,17 @@ if (req.session.user) {
   const existing = await UserBook.findOne({
     where: { user_id: req.session.user.id, book_id: bookId }
   });
+  
   if (existing) {
-    // Met à jour updated_at pour tracker la consultation
     await existing.update({ updated_at: new Date() });
+  } else {
+    await UserBook.create({
+      user_id: req.session.user.id,
+      book_id: bookId,
+      status: null
+    });
   }
-  // Si le livre n'est pas dans la biblio, on ne crée rien
 }
-
     const reviews = await UserBook.findAll({
       where: { book_id: bookId },
       attributes: ["user_id", "rating", "review", "created_at"],
