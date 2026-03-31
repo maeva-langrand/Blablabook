@@ -94,11 +94,15 @@ export async function showBookDetailsPage(req, res, next) {
       error.statusCode = 404;
       return next(error);
     }
-    if (req.session.user) {
-  await UserBook.upsert({
-    user_id: req.session.user.id,
-    book_id: bookId
+if (req.session.user) {
+  const existing = await UserBook.findOne({
+    where: { user_id: req.session.user.id, book_id: bookId }
   });
+  if (existing) {
+    // Met à jour updated_at pour tracker la consultation
+    await existing.update({ updated_at: new Date() });
+  }
+  // Si le livre n'est pas dans la biblio, on ne crée rien
 }
 
     const reviews = await UserBook.findAll({
