@@ -1,14 +1,6 @@
 import fs from 'fs';
 import { Author, Genre, Book, User, UserBook, sequelize } from '../models/index.js';
 
-// Vérification : si des livres existent déjà, on ne reseed pas
-const existingBooks = await Book.count();
-if (existingBooks > 0) {
-  console.log("✅ Base déjà peuplée, seed ignoré.");
-  await sequelize.close();
-  process.exit(0);
-}
-
 async function seedDatabase() {
   const transaction = await sequelize.transaction();
   try {
